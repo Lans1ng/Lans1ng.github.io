@@ -22,9 +22,9 @@ News
 <li><strong>2024.10</strong>: One paper accepted by <strong>ACM MM 2024</strong>.</li>
 <li><strong>2024.07</strong>: Two papers accepted by <strong>IGARSS 2024</strong> (1 Oral).</li>
 <li><strong>2024.07</strong>: Received <strong>IEEE GRSS Travel Grant</strong> for IGARSS 2024.</li>
-<li><strong>2024.06</strong>: One paper accepted by <strong>IEEE TGRS</strong> (IDA-SiamNet).</li>
+<li><strong>2024.06</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2024.05</strong>: One paper accepted by <strong>PAKDD 2024</strong> (Oral).</li>
-<li><strong>2024.05</strong>: One paper accepted by <strong>IEEE TGRS</strong> (SSLChange).</li>
+<li><strong>2024.05</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2024.03</strong>: One paper accepted by <strong>JAG</strong>.</li>
 <li><strong>2024.02</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
 <li><strong>2024.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
