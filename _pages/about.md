@@ -142,3 +142,9 @@ T. Chen, **N. Liu**, L. Yang, X. Yang, T. Li, X. Xu
 
 <p><a href="/publications/">Full list →</a></p>
 </div>
+
+# Academic Service
+
+- **Journal Reviewer:** TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL
+- **Conference Reviewer:** ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025, ICONIP 2023
+- **Membership:** IEEE Member
