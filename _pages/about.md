@@ -12,7 +12,7 @@ I am a Lecturer at [Yunnan Normal University](https://www.ynnu.edu.cn/). I recei
 News
 ======
 - **2025.01**: Joined Yunnan Normal University as a Lecturer.
-- **2025.01**: Two papers accepted by **ICLR 2025**.
+- **2026.01**: Two papers accepted by **ICLR 2025**.
 - **2025.01**: One paper accepted by **IEEE TGRS** (ESI Highly Cited).
 - **2024.10**: One paper accepted by **ACM MM 2024**.
 - **2024.07**: Received **IEEE GRSS Travel Grant** for IGARSS 2024.
