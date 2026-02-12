@@ -11,54 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. Candidate** in Information and Communication Engineering, Southwest Jiaotong University, Chengdu, China, 2017 - 2025
+  * Advisors: Prof. Turgay Celik, Prof. Hengchao Li
+* **B.S.** in Electronic Information Engineering, Wuhan University of Science and Technology, Wuhan, China, 2012 - 2016
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Feb 2023 - Aug 2024: Research Intern**
+  * Infocomm Research (I2R), A*STAR, Singapore
+  * Advisor: Dr. Xun Xu
+  * Projects:
+    * Open-set semi-supervised object detection
+    * Source-free domain adaptation for object detection
+    * Weakly-supervised Segment Anything Model
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Aug 2024 - Dec 2024: Research Intern**
+  * Centre for Frontier AI Research (CFAR), A*STAR, Singapore
+  * Advisor: Dr. Foo Chuan Sheng
+  * Projects:
+    * Improving robustness of object detection against common perturbations and adversarial attacks
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning & Computer Vision
+  * PyTorch, TensorFlow
+  * Object Detection (Faster R-CNN, YOLO, DETR)
+  * Image Segmentation (SAM, U-Net)
+* Remote Sensing Image Analysis
+* Programming: Python, MATLAB, C++
+
+Honors & Awards
+======
+* 2024: IEEE GRSS Travel Grant, IGARSS 2024, Athens, Greece
+* 2020: Huawei Second-Class Scholarship, Chengdu, China
+
+Academic Service
+======
+* **Journal Reviewer**: TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL
+* **Conference Reviewer**: CVPR 2026, ACM MM 2024/2025, ICONIP 2023, IGARSS 2025
+* **Member**: IEEE
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
