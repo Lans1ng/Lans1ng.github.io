@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Nanqing Liu (刘南清)"
 title_separator          : "-"
 name                     : &name "Nanqing Liu"
-description              : &description "Ph.D. Candidate in Remote Sensing & Computer Vision"
+description              : &description "Lecturer in Remote Sensing & Computer Vision"
 url                      : https://lans1ng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Nanqing Liu (刘南清)"
   pronouns         : # example: "she/her"
-  bio              : "Ph.D. Candidate @ Southwest Jiaotong University"
-  location         : "Chengdu, China"
-  employer         : "Southwest Jiaotong University"
+  bio              : "Lecturer @ Yunnan Normal University"
+  location         : "Kunming, China"
+  employer         : "Yunnan Normal University"
   uri              : # URL
   email            : "lansing163@163.com"
 
