@@ -12,7 +12,7 @@ redirect_from:
 I am a Lecturer at [Yunnan Normal University](https://www.ynnu.edu.cn/). I received my Ph.D. in Information and Communication Engineering from [Southwest Jiaotong University](https://www.swjtu.edu.cn/) in 2025, advised by Prof. [Turgay Celik](https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN) and Prof. [Hengchao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm). My research focuses on remote sensing image analysis and computer vision, particularly in few-shot object detection, semi-supervised object detection, domain adaptation, and weakly-supervised segmentation. From February 2023 to December 2024, I was a research intern at [A*STAR](https://www.a-star.edu.sg/) in Singapore.
 
 # News
-<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.9em;">
+<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.9em;" markdown="1">
 
 - *2026.01*: Two papers accepted by **ICLR 2026**.
 - *2026.01*: One paper accepted by **ICASSP 2026**.
@@ -39,57 +39,38 @@ I am a Lecturer at [Yunnan Normal University](https://www.ynnu.edu.cn/). I recei
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs](https://openreview.net/forum?id=xF0Dcmvsl0)
-
-Y. Su, H. Zhang, S. Li, **N. Liu**, J. Liao, J. Pan, Y. Liu, X. Xing, C. Sun, C. Li, N. F. Chen, S. Yan, X. Yang, X. Xu
-
-[[arXiv]](https://arxiv.org/abs/2510.01954) [[Code]](https://github.com/Gorilla-Lab-SCUT/PaDT) ![](https://img.shields.io/github/stars/Gorilla-Lab-SCUT/PaDT?style=social)
-</div>
+<div class="pub-item">
+<div class="pub-title"><a href="https://openreview.net/forum?id=xF0Dcmvsl0">Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs</a></div>
+<div class="pub-authors">Y. Su, H. Zhang, S. Li, <strong>N. Liu</strong>, J. Liao, J. Pan, Y. Liu, X. Xing, C. Sun, C. Li, N. F. Chen, S. Yan, X. Yang, X. Xu</div>
+<div class="pub-meta"><span class="pub-year">2026</span><span class="pub-venue">ICLR 2026</span></div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2510.01954">arXiv</a><a href="https://github.com/Gorilla-Lab-SCUT/PaDT">Code</a><img src="https://img.shields.io/github/stars/Gorilla-Lab-SCUT/PaDT?style=social"></div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/pgllm.png' alt="PGLLM" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement
-
-T. Chen, **N. Liu**, L. Yang, X. Yang, T. Li, X. Xu
-</div>
+<div class="pub-item">
+<div class="pub-title">Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement</div>
+<div class="pub-authors">T. Chen, <strong>N. Liu</strong>, L. Yang, X. Yang, T. Li, X. Xu</div>
+<div class="pub-meta"><span class="pub-year">2026</span><span class="pub-venue">ICLR 2026</span></div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/papers/pointsam.png' alt="PointSAM" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images](https://ieeexplore.ieee.org/document/10839471)
-
-**N. Liu**, X. Xu, Y. Su, H. Zhang, H.-C. Li
-
-[[arXiv]](https://arxiv.org/abs/2409.13401) [[Code]](https://github.com/Lans1ng/PointSAM) ![](https://img.shields.io/github/stars/Lans1ng/PointSAM?style=social)
-</div>
+<div class="pub-item">
+<div class="pub-title"><a href="https://ieeexplore.ieee.org/document/10839471">PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images</a></div>
+<div class="pub-authors"><strong>N. Liu</strong>, X. Xu, Y. Su, H. Zhang, H.-C. Li</div>
+<div class="pub-meta"><span class="pub-year">2025</span><span class="pub-venue">IEEE TGRS</span><span class="pub-ranking">CAS Q1 TOP</span></div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2409.13401">arXiv</a><a href="https://github.com/Lans1ng/PointSAM">Code</a><img src="https://img.shields.io/github/stars/Lans1ng/PointSAM?style=social"></div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src='images/papers/ossod.png' alt="OSSOD" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Semi-supervised object detection with uncurated unlabeled data for remote sensing images](https://www.sciencedirect.com/science/article/pii/S1569843224000864)
-
-**N. Liu**, X. Xu, Y. Gao, Y. Zhao, H.-C. Li
-
-[[Code]](https://github.com/Lans1ng/OSSOD) ![](https://img.shields.io/github/stars/Lans1ng/OSSOD?style=social)
-</div>
+<div class="pub-item">
+<div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S1569843224000864">Semi-supervised object detection with uncurated unlabeled data for remote sensing images</a></div>
+<div class="pub-authors"><strong>N. Liu</strong>, X. Xu, Y. Gao, Y. Zhao, H.-C. Li</div>
+<div class="pub-meta"><span class="pub-year">2024</span><span class="pub-venue">JAG</span><span class="pub-ranking">CAS Q1 TOP</span></div>
+<div class="pub-links"><a href="https://github.com/Lans1ng/OSSOD">Code</a><img src="https://img.shields.io/github/stars/Lans1ng/OSSOD?style=social"></div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/papers/tinet.png' alt="TINet" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images](https://ieeexplore.ieee.org/document/10318106)
-
-**N. Liu**, X. Xu, T. Celik, Z. Gan, H.-C. Li
-
-[[arXiv]](https://arxiv.org/abs/2303.06817)
-</div>
+<div class="pub-item">
+<div class="pub-title"><a href="https://ieeexplore.ieee.org/document/10318106">Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images</a></div>
+<div class="pub-authors"><strong>N. Liu</strong>, X. Xu, T. Celik, Z. Gan, H.-C. Li</div>
+<div class="pub-meta"><span class="pub-year">2023</span><span class="pub-venue">IEEE TGRS</span><span class="pub-ranking">CAS Q1 TOP</span></div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2303.06817">arXiv</a></div>
 </div>
 
 - Y. Qiao, **N. Liu\***, Y. Su, S. Li, X. Yang, B. Wen, N. Chen, T. Li, X. Xu, "SAM-Guided Multi-view Fusion for Weakly Supervised 3D Point Cloud Segmentation," **ICASSP 2026**

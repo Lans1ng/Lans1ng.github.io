@@ -96,3 +96,105 @@
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Publication item styles (academic-homepage style)
+.pub-item {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-left: 4px solid #2563eb;
+    transition: all 0.3s;
+
+    &:hover {
+        box-shadow: 0 8px 16px rgba(37, 99, 235, 0.1);
+        transform: translateX(4px);
+    }
+}
+
+.pub-title {
+    font-weight: 600;
+    color: #1a1a2e;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+
+    a {
+        text-decoration: none;
+        color: inherit;
+
+        &:hover {
+            color: #2563eb;
+        }
+    }
+}
+
+.pub-authors {
+    color: #6b7280;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.pub-meta {
+    display: flex;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+    font-size: 0.85rem;
+    align-items: center;
+}
+
+.pub-venue {
+    color: #2563eb;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.pub-year {
+    background: #3b82f6;
+    color: white;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.pub-ranking {
+    background: #10b981;
+    color: white;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.pub-links {
+    display: flex;
+    gap: 0.8rem;
+    margin-top: 0.8rem;
+    flex-wrap: wrap;
+
+    a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        padding: 0.4rem 0.8rem;
+        background: white;
+        border: 1px solid #e5e7eb;
+        border-radius: 4px;
+        text-decoration: none;
+        color: #2563eb;
+        font-weight: 500;
+        font-size: 0.85rem;
+        transition: all 0.3s;
+
+        &:hover {
+            background: #2563eb;
+            color: white;
+            border-color: #2563eb;
+        }
+
+        img {
+            height: 18px;
+        }
+    }
+}
