@@ -45,22 +45,81 @@ News
 Selected Publications
 ======
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs](https://openreview.net/forum?id=xF0Dcmvsl0)
+
+Y. Su, H. Zhang, S. Li, **N. Liu**, J. Liao, J. Pan, Y. Liu, X. Xing, C. Sun, C. Li, N. F. Chen, S. Yan, X. Yang, X. Xu
+
+*International Conference on Learning Representations (ICLR)*, 2026
+
+[[arXiv]](https://arxiv.org/abs/2510.01954) [[Code]](https://github.com/Gorilla-Lab-SCUT/PaDT) ![GitHub stars](https://img.shields.io/github/stars/Gorilla-Lab-SCUT/PaDT?style=social)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/pgllm.png' alt="PGLLM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement
+
+T. Chen, **N. Liu**, L. Yang, X. Yang, T. Li, X. Xu
+
+*International Conference on Learning Representations (ICLR)*, 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/papers/pointsam.png' alt="PointSAM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images](https://ieeexplore.ieee.org/document/10839471)
+
+**N. Liu**, X. Xu, Y. Su, H. Zhang, H.-C. Li
+
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025
+
+[[arXiv]](https://arxiv.org/abs/2409.13401) [[Code]](https://github.com/Lans1ng/PointSAM) ![GitHub stars](https://img.shields.io/github/stars/Lans1ng/PointSAM?style=social)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src='images/papers/ossod.png' alt="OSSOD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semi-supervised object detection with uncurated unlabeled data for remote sensing images](https://www.sciencedirect.com/science/article/pii/S1569843224000864)
+
+**N. Liu**, X. Xu, Y. Gao, Y. Zhao, H.-C. Li
+
+*International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2024
+
+[[Code]](https://github.com/Lans1ng/OSSOD) ![GitHub stars](https://img.shields.io/github/stars/Lans1ng/OSSOD?style=social)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/papers/tinet.png' alt="TINet" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images](https://ieeexplore.ieee.org/document/10318106)
+
+**N. Liu**, X. Xu, T. Celik, Z. Gan, H.-C. Li
+
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2023
+
+[[arXiv]](https://arxiv.org/abs/2303.06817)
+</div>
+</div>
+
 <div style="font-size: 0.9em;">
 
 **2026**
-- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ICLR</span> Y. Su, H. Zhang, S. Li, **N. Liu**, J. Liao, J. Pan, Y. Liu, X. Xing, C. Sun, C. Li, N. F. Chen, S. Yan, X. Yang, X. Xu, "[Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs](https://openreview.net/forum?id=xF0Dcmvsl0)," *International Conference on Learning Representations*, 2026. [[arXiv]](https://arxiv.org/abs/2510.01954) [[Code]](https://github.com/Gorilla-Lab-SCUT/PaDT) ![GitHub stars](https://img.shields.io/github/stars/Gorilla-Lab-SCUT/PaDT?style=social)
-- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ICLR</span> T. Chen, **N. Liu**, L. Yang, X. Yang, T. Li, X. Xu, "Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement," *International Conference on Learning Representations*, 2026.
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ICASSP</span> Y. Qiao, **N. Liu\***, Y. Su, S. Li, X. Yang, B. Wen, N. Chen, T. Li, X. Xu, "SAM-Guided Multi-view Fusion for Weakly Supervised 3D Point Cloud Segmentation," *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2026.
 
 **2025**
-- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> **N. Liu**, X. Xu, Y. Su, H. Zhang, H.-C. Li, "[PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images](https://ieeexplore.ieee.org/document/10839471)," *IEEE Transactions on Geoscience and Remote Sensing*, 2025. [[arXiv]](https://arxiv.org/abs/2409.13401) [[Code]](https://github.com/Lans1ng/PointSAM) ![GitHub stars](https://img.shields.io/github/stars/Lans1ng/PointSAM?style=social)
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ICLR</span> Y. Su, Y. Li, **N. Liu**, K. Jia, X. Yang, C.-S. Foo, X. Xu, "[On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning](https://openreview.net/forum?id=adversarial-tta)," *International Conference on Learning Representations*, 2025. [[Code]](https://github.com/Lans1ng/STFAR)
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> Y. Zhao, S. Lei, **N. Liu**, T. Celik, H.-C. Li, Q. Zhu, "[Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation](https://ieeexplore.ieee.org/)," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">JSTARS</span> J. Wang, Z. Ma, C. Wang, **N. Liu\***, "[Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images](https://ieeexplore.ieee.org/)," *IEEE JSTARS*, 2025.
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">Sensors</span> P. Guo, H.-C. Li, **N. Liu**, S. Lei, X. Geng, J. Pan, "[M2S-DETR: A Mixed Receptive Field and Multi-Position Encoding for Scale-Sensitive SAR Ship Detection with Transformer](https://ieeexplore.ieee.org/)," *IEEE Sensors Journal*, 2025.
 
 **2024**
-- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">JAG</span> **N. Liu**, X. Xu, Y. Gao, Y. Zhao, H.-C. Li, "[Semi-supervised object detection with uncurated unlabeled data for remote sensing images](https://www.sciencedirect.com/science/article/pii/S1569843224000864)," *International Journal of Applied Earth Observation and Geoinformation*, 2024. [[Code]](https://github.com/Lans1ng/OSSOD) ![GitHub stars](https://img.shields.io/github/stars/Lans1ng/OSSOD?style=social)
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">IGARSS</span> **N. Liu**, X. Xu, Y. Su, C. Liu, P. Gong, H.-C. Li, "[CLIP-guided Source-free Object Detection in Aerial Images](https://ieeexplore.ieee.org/)," *IEEE IGARSS*, 2024. **(Oral)** [[Code]](https://github.com/Lans1ng/SFOD-RS) ![GitHub stars](https://img.shields.io/github/stars/Lans1ng/SFOD-RS?style=social)
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ACM MM</span> Y. Gao, Y. Zhang, Z. Huang, **N. Liu**, D. Huang, "[PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection](https://dl.acm.org/doi/10.1145/3664647.3681176)," *ACM MM*, 2024.
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> Y. Zhao, T. Celik, **N. Liu**, F. Gao, H.-C. Li, "[SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation](https://ieeexplore.ieee.org/document/10741199)," *IEEE TGRS*, 2024. [[arXiv]](https://arxiv.org/abs/2405.18224) [[Code]](https://github.com/MarsZhaoYT/SSLChange) ![GitHub stars](https://img.shields.io/github/stars/MarsZhaoYT/SSLChange?style=social)
@@ -71,7 +130,6 @@ Selected Publications
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">PAKDD</span> R. Pang, H. Tan, Y. Yang, X. Xu, **N. Liu**, P. Zhang, "[A Novel SegNet Model for Crack Image Semantic Segmentation in Bridge Inspection](https://link.springer.com/)," *PAKDD*, 2024. **(Oral)**
 
 **2023**
-- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> **N. Liu**, X. Xu, T. Celik, Z. Gan, H.-C. Li, "[Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images](https://ieeexplore.ieee.org/document/10318106)," *IEEE Transactions on Geoscience and Remote Sensing*, 2023. [[arXiv]](https://arxiv.org/abs/2303.06817)
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> J. Deng, Q. Wang, **N. Liu\***, "[Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification](https://ieeexplore.ieee.org/)," *IEEE GRSL*, 2023.
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ISPA</span> S. Li, Q. Jiang, X. Jin, **N. Liu**, S. Chen, S.-J. Lee, "[Cascade Meta-RCNN for Few-shot Object Detection](https://ieeexplore.ieee.org/)," *IEEE ISPA*, 2023. **(Oral)**
 - <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> P. Guo, T. Celik, **N. Liu**, H.-C. Li, "[Break Through the Border Restriction of Horizontal Bounding Box for Arbitrary-Oriented Ship Detection in SAR Images](https://ieeexplore.ieee.org/)," *IEEE GRSL*, 2023.
