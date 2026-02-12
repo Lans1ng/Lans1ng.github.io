@@ -24,8 +24,8 @@ News
 <li><strong>2024.07</strong>: Received <strong>IEEE GRSS Travel Grant</strong> for IGARSS 2024.</li>
 <li><strong>2024.05</strong>: One paper accepted by <strong>PAKDD 2024</strong> (Oral).</li>
 <li><strong>2024.03</strong>: Two papers accepted by <strong>IEEE TGRS</strong>.</li>
+<li><strong>2024.03</strong>: One paper accepted by <strong>JAG</strong>.</li>
 <li><strong>2024.02</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
-<li><strong>2024.01</strong>: One paper accepted by <strong>JAG</strong>.</li>
 <li><strong>2024.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2023.06</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2023.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
