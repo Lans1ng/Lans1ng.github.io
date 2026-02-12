@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer at [Yunnan Normal University](https://www.ynnu.edu.cn/). I received my Ph.D. in Information and Communication Engineering from [Southwest Jiaotong University](https://www.swjtu.edu.cn/) in 2025, advised by Prof. [Turgay Celik](https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN) and Prof. [Hengchao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm). My research focuses on remote sensing image analysis and computer vision, particularly in few-shot object detection, semi-supervised object detection, domain adaptation, and weakly-supervised segmentation. From February 2023 to December 2024, I was a research intern at [A*STAR](https://www.a-star.edu.sg/) in Singapore.
+<p style="font-size: 0.9em;">I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</a>. I received my Ph.D. in Information and Communication Engineering from <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a> in 2025, advised by Prof. <a href="https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN">Turgay Celik</a> and Prof. <a href="https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm">Hengchao Li</a>. My research focuses on remote sensing image analysis and computer vision, particularly in few-shot object detection, semi-supervised object detection, domain adaptation, and weakly-supervised segmentation. From February 2023 to December 2024, I was a research intern at <a href="https://www.a-star.edu.sg/">A*STAR</a> in Singapore.</p>
 
 News
 ======
-<div style="height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
+<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
 <li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
 <li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
@@ -38,4 +38,61 @@ News
 <li><strong>2021.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2020.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 </ul>
+</div>
+
+Selected Publications
+======
+
+<div style="font-size: 0.9em;">
+
+**2025**
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> **N. Liu**, X. Xu, Y. Su, H. Zhang, H.-C. Li, "PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ICLR</span> Y. Su, Y. Li, **N. Liu**, K. Jia, X. Yang, C.-S. Foo, X. Xu, "On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning," *International Conference on Learning Representations*, 2025.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> Y. Zhao, S. Lei, **N. Liu**, T. Celik, H.-C. Li, Q. Zhu, "Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">JSTARS</span> J. Wang, Z. Ma, C. Wang, **N. Liu\***, "Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images," *IEEE JSTARS*, 2025.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">Sensors</span> P. Guo, H.-C. Li, **N. Liu**, S. Lei, X. Geng, J. Pan, "M2S-DETR: A Mixed Receptive Field and Multi-Position Encoding for Scale-Sensitive SAR Ship Detection with Transformer," *IEEE Sensors Journal*, 2025.
+
+**2024**
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">JAG</span> **N. Liu**, X. Xu, Y. Gao, Y. Zhao, H.-C. Li, "Semi-supervised object detection with uncurated unlabeled data for remote sensing images," *International Journal of Applied Earth Observation and Geoinformation*, 2024.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">IGARSS</span> **N. Liu**, X. Xu, Y. Su, C. Liu, P. Gong, H.-C. Li, "CLIP-guided Source-free Object Detection in Aerial Images," *IEEE IGARSS*, 2024. **(Oral)**
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ACM MM</span> Y. Gao, Y. Zhang, Z. Huang, **N. Liu**, D. Huang, "PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection," *ACM MM*, 2024.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> Y. Zhao, T. Celik, **N. Liu**, F. Gao, H.-C. Li, "SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation," *IEEE TGRS*, 2024.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> Y.-C. Li, S. Lei, **N. Liu**, H.-C. Li, Q. Du, "IDA-SiamNet: Interactive- and Dynamic-Aware Siamese Network for Building Change Detection," *IEEE TGRS*, 2024.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">JSTARS</span> Y. Zhao, H.-C. Li, S. Lei, **N. Liu**, J. Pan, T. Celik, "COUD: Continual Urbanization Detector for Time Series Building Change Detection," *IEEE JSTARS*, 2024.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> Y. Liu, S. Lei, **N. Liu**, J. Pan, H.-C. Li, "Memory-Augmented Differential Network for Infrared Small Target Detection," *IEEE GRSL*, 2024.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">IGARSS</span> Y. Zhao, H.-C. Li, **N. Liu**, R. Wang, "Toward distortion-aware change detection in realistic scenarios," *IEEE IGARSS*, 2024.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">PAKDD</span> R. Pang, H. Tan, Y. Yang, X. Xu, **N. Liu**, P. Zhang, "A Novel SegNet Model for Crack Image Semantic Segmentation in Bridge Inspection," *PAKDD*, 2024. **(Oral)**
+
+**2023**
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">TGRS</span> **N. Liu**, X. Xu, T. Celik, Z. Gan, H.-C. Li, "Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images," *IEEE Transactions on Geoscience and Remote Sensing*, 2023.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> J. Deng, Q. Wang, **N. Liu\***, "Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification," *IEEE GRSL*, 2023.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">ISPA</span> S. Li, Q. Jiang, X. Jin, **N. Liu**, S. Chen, S.-J. Lee, "Cascade Meta-RCNN for Few-shot Object Detection," *IEEE ISPA*, 2023. **(Oral)**
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> P. Guo, T. Celik, **N. Liu**, H.-C. Li, "Break Through the Border Restriction of Horizontal Bounding Box for Arbitrary-Oriented Ship Detection in SAR Images," *IEEE GRSL*, 2023.
+
+**2022**
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> Y. Zhao, T. Celik, **N. Liu**, H.-C. Li, "A Comparative Analysis of GAN-Based Methods for SAR-to-Optical Image Translation," *IEEE GRSL*, 2022.
+
+**2021**
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">JSTARS</span> **N. Liu**, T. Celik, T. Zhao, C. Zhang, H.-C. Li, "AFDet: Toward More Accurate and Faster Object Detection in Remote Sensing Images," *IEEE JSTARS*, 2021.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> T. Zhao, **N. Liu\***, T. Celik, H.-C. Li, "An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images," *IEEE GRSL*, 2021.
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> **N. Liu**, T. Celik, H.-C. Li, "Gated Ladder-Shaped Feature Pyramid Network for Object Detection in Optical Remote Sensing Images," *IEEE GRSL*, 2021.
+
+**2020**
+- <span class="badge" style="position: relative; margin-left: 0; margin-right: 0.5em;">GRSL</span> **N. Liu**, T. Celik, H.-C. Li, "MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification," *IEEE GRSL*, 2020.
+
+</div>
+
+<p><a href="/publications/">Full list →</a></p>
+
+Academic Service
+======
+
+<div style="font-size: 0.9em;">
+
+**Journal Reviewer:** IEEE TIP, IEEE TCSVT, IEEE GRSM, IEEE TGRS, ISPRS, IEEE TIM, IEEE JSTARS, IEEE GRSL
+
+**Conference Reviewer:** ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025, ICONIP 2023
+
+**Membership:** IEEE Member
+
 </div>
