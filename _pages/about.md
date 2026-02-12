@@ -15,28 +15,23 @@ News
 <ul style="list-style: none; padding-left: 0; margin: 0;">
 <li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
 <li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
-<li><strong>2025</strong>: One paper accepted by <strong>IEEE TGRS</strong> (Exploring Generalizable Pre-training).</li>
-<li><strong>2025</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong> (M2S-DETR).</li>
-<li><strong>2025</strong>: One paper accepted by <strong>IEEE JSTARS</strong> (Few-Shot Object Detection).</li>
-<li><strong>2025</strong>: One paper accepted by <strong>IEEE TGRS</strong> (PointSAM, ESI Highly Cited).</li>
-<li><strong>2024.10</strong>: One paper accepted by <strong>ACM MM 2024</strong> (PS-TTL).</li>
+<li><strong>2025.01</strong>: Two papers accepted by <strong>IEEE TGRS</strong>.</li>
+<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong>.</li>
+<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
+<li><strong>2024.10</strong>: One paper accepted by <strong>ACM MM 2024</strong>.</li>
+<li><strong>2024.07</strong>: Two papers accepted by <strong>IGARSS 2024</strong> (1 Oral).</li>
 <li><strong>2024.07</strong>: Received <strong>IEEE GRSS Travel Grant</strong> for IGARSS 2024.</li>
-<li><strong>2024</strong>: One paper accepted by <strong>IGARSS 2024</strong> (CLIP-guided, Oral).</li>
-<li><strong>2024</strong>: One paper accepted by <strong>IGARSS 2024</strong> (Distortion-aware).</li>
-<li><strong>2024</strong>: One paper accepted by <strong>PAKDD 2024</strong> (SegNet, Oral).</li>
-<li><strong>2024</strong>: One paper accepted by <strong>JAG</strong> (Semi-supervised Object Detection).</li>
-<li><strong>2024</strong>: One paper accepted by <strong>IEEE TGRS</strong> (SSLChange).</li>
-<li><strong>2024</strong>: One paper accepted by <strong>IEEE TGRS</strong> (IDA-SiamNet).</li>
-<li><strong>2024</strong>: One paper accepted by <strong>IEEE JSTARS</strong> (COUD).</li>
-<li><strong>2024</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Memory-Augmented).</li>
-<li><strong>2023</strong>: One paper accepted by <strong>IEEE TGRS</strong> (Transformation-Invariant Network).</li>
-<li><strong>2023</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Masked Second-Order Pooling).</li>
-<li><strong>2023</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Border Restriction).</li>
-<li><strong>2023</strong>: One paper accepted by <strong>ISPA 2023</strong> (Cascade Meta-RCNN, Oral).</li>
-<li><strong>2022</strong>: One paper accepted by <strong>IEEE GRSL</strong> (GAN-Based SAR-to-Optical).</li>
-<li><strong>2021</strong>: One paper accepted by <strong>IEEE JSTARS</strong> (AFDet).</li>
-<li><strong>2021</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Arbitrary-Oriented Object Detector).</li>
-<li><strong>2021</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Gated Ladder-Shaped FPN).</li>
-<li><strong>2020</strong>: One paper accepted by <strong>IEEE GRSL</strong> (MSNet).</li>
+<li><strong>2024.05</strong>: One paper accepted by <strong>PAKDD 2024</strong> (Oral).</li>
+<li><strong>2024.03</strong>: Two papers accepted by <strong>IEEE TGRS</strong>.</li>
+<li><strong>2024.02</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
+<li><strong>2024.01</strong>: One paper accepted by <strong>JAG</strong>.</li>
+<li><strong>2024.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
+<li><strong>2023.06</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
+<li><strong>2023.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
+<li><strong>2023.06</strong>: One paper accepted by <strong>ISPA 2023</strong> (Oral).</li>
+<li><strong>2022.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
+<li><strong>2021.06</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
+<li><strong>2021.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
+<li><strong>2020.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 </ul>
 </div>
