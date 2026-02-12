@@ -89,7 +89,7 @@ Academic Service
 
 <div style="font-size: 0.9em;">
 
-**Journal Reviewer:** IEEE TIP, IEEE TCSVT, IEEE GRSM, IEEE TGRS, ISPRS, IEEE TIM, IEEE JSTARS, IEEE GRSL
+**Journal Reviewer:** TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL
 
 **Conference Reviewer:** ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025, ICONIP 2023
 
