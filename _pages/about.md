@@ -41,7 +41,7 @@ redirect_from:
 
 <div style="margin-top: 2em;"></div>
 
-# Selected Publications
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
