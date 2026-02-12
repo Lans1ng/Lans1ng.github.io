@@ -52,17 +52,37 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.1em;
     border-bottom: none;
+    font-size: $type-size-6;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
+  margin-bottom: 0.25em;
   font-size: $type-size-6;
 
   & + p {
     text-indent: 0;
+  }
+}
+
+.list__item {
+  p {
+    margin-bottom: 0.25em;
+    font-size: $type-size-6;
+  }
+}
+
+.archive__item-pub {
+  margin: 0.3em 0;
+  font-size: 0.85em;
+  line-height: 1.5;
+
+  .pub-title {
+    font-weight: bold;
   }
 }
 

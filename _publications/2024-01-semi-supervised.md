@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/2024-semi-supervised
 date: 2024-01-01
 venue: 'International Journal of Applied Earth Observation and Geoinformation (JAG)'
-citation: '<b>N. Liu</b>, X. Xu, Y. Gao, Y. Zhao, H.-C. Li. (2024). &quot;Semi-supervised object detection with uncurated unlabeled data for remote sensing images.&quot; <i>JAG</i>.'
+authors: '<b>N. Liu</b>, X. Xu, Y. Gao, Y. Zhao, H.-C. Li'
 ---
