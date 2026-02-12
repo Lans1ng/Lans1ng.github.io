@@ -15,9 +15,10 @@ News
 <ul style="list-style: none; padding-left: 0; margin: 0;">
 <li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
 <li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
-<li><strong>2025.01</strong>: Two papers accepted by <strong>IEEE TGRS</strong>.</li>
-<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong>.</li>
-<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
+<li><strong>2025.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
+<li><strong>2025.06</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong>.</li>
+<li><strong>2025.03</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
+<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2024.10</strong>: One paper accepted by <strong>ACM MM 2024</strong>.</li>
 <li><strong>2024.07</strong>: Two papers accepted by <strong>IGARSS 2024</strong> (1 Oral).</li>
 <li><strong>2024.07</strong>: Received <strong>IEEE GRSS Travel Grant</strong> for IGARSS 2024.</li>
