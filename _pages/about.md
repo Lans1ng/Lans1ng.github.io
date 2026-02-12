@@ -42,6 +42,55 @@ News
 
 Selected Publications
 ======
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs](https://openreview.net/forum?id=xF0Dcmvsl0)
+
+Y. Su, H. Zhang, S. Li, **N. Liu**, J. Liao, J. Pan, Y. Liu, X. Xing, C. Sun, C. Li, N. F. Chen, S. Yan, X. Yang, X. Xu
+
+[[arXiv]](https://arxiv.org/abs/2510.01954) [[Code]](https://github.com/Gorilla-Lab-SCUT/PaDT)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/pgllm.png' alt="PGLLM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement
+
+T. Chen, **N. Liu**, L. Yang, X. Yang, T. Li, X. Xu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/papers/pointsam.png' alt="PointSAM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images](https://ieeexplore.ieee.org/document/10839471)
+
+**N. Liu**, X. Xu, Y. Su, H. Zhang, H.-C. Li
+
+[[arXiv]](https://arxiv.org/abs/2409.13401) [[Code]](https://github.com/Lans1ng/PointSAM)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src='images/papers/ossod.png' alt="OSSOD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Semi-supervised object detection with uncurated unlabeled data for remote sensing images](https://www.sciencedirect.com/science/article/pii/S1569843224000864)
+
+**N. Liu**, X. Xu, Y. Gao, Y. Zhao, H.-C. Li
+
+[[Code]](https://github.com/Lans1ng/OSSOD)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/papers/tinet.png' alt="TINet" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images](https://ieeexplore.ieee.org/document/10318106)
+
+**N. Liu**, X. Xu, T. Celik, Z. Gan, H.-C. Li
+
+[[arXiv]](https://arxiv.org/abs/2303.06817)
+</div>
+</div>
+
 <div style="font-size: 0.85em;">
 
 <h3>2025</h3>
