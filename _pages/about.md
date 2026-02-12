@@ -11,28 +11,32 @@ I am a Lecturer at [Yunnan Normal University](https://www.ynnu.edu.cn/). I recei
 
 News
 ======
-- **2026.01**: Two papers accepted by **ICLR 2026**.
-- **2026.01**: One paper accepted by **ICASSP 2026**.
-- **2025**: One paper accepted by **IEEE TGRS** (Exploring Generalizable Pre-training).
-- **2025**: One paper accepted by **IEEE Sensors Journal** (M2S-DETR).
-- **2025**: One paper accepted by **IEEE JSTARS** (Few-Shot Object Detection).
-- **2025**: One paper accepted by **IEEE TGRS** (PointSAM, ESI Highly Cited).
-- **2024.10**: One paper accepted by **ACM MM 2024** (PS-TTL).
-- **2024.07**: Received **IEEE GRSS Travel Grant** for IGARSS 2024.
-- **2024**: One paper accepted by **IGARSS 2024** (CLIP-guided, Oral).
-- **2024**: One paper accepted by **IGARSS 2024** (Distortion-aware).
-- **2024**: One paper accepted by **PAKDD 2024** (SegNet, Oral).
-- **2024**: One paper accepted by **JAG** (Semi-supervised Object Detection).
-- **2024**: One paper accepted by **IEEE TGRS** (SSLChange).
-- **2024**: One paper accepted by **IEEE TGRS** (IDA-SiamNet).
-- **2024**: One paper accepted by **IEEE JSTARS** (COUD).
-- **2024**: One paper accepted by **IEEE GRSL** (Memory-Augmented).
-- **2023**: One paper accepted by **IEEE TGRS** (Transformation-Invariant Network).
-- **2023**: One paper accepted by **IEEE GRSL** (Masked Second-Order Pooling).
-- **2023**: One paper accepted by **IEEE GRSL** (Border Restriction).
-- **2023**: One paper accepted by **ISPA 2023** (Cascade Meta-RCNN, Oral).
-- **2022**: One paper accepted by **IEEE GRSL** (GAN-Based SAR-to-Optical).
-- **2021**: One paper accepted by **IEEE JSTARS** (AFDet).
-- **2021**: One paper accepted by **IEEE GRSL** (Arbitrary-Oriented Object Detector).
-- **2021**: One paper accepted by **IEEE GRSL** (Gated Ladder-Shaped FPN).
-- **2020**: One paper accepted by **IEEE GRSL** (MSNet).
+<div style="height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+<ul style="list-style: none; padding-left: 0; margin: 0;">
+<li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
+<li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
+<li><strong>2025</strong>: One paper accepted by <strong>IEEE TGRS</strong> (Exploring Generalizable Pre-training).</li>
+<li><strong>2025</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong> (M2S-DETR).</li>
+<li><strong>2025</strong>: One paper accepted by <strong>IEEE JSTARS</strong> (Few-Shot Object Detection).</li>
+<li><strong>2025</strong>: One paper accepted by <strong>IEEE TGRS</strong> (PointSAM, ESI Highly Cited).</li>
+<li><strong>2024.10</strong>: One paper accepted by <strong>ACM MM 2024</strong> (PS-TTL).</li>
+<li><strong>2024.07</strong>: Received <strong>IEEE GRSS Travel Grant</strong> for IGARSS 2024.</li>
+<li><strong>2024</strong>: One paper accepted by <strong>IGARSS 2024</strong> (CLIP-guided, Oral).</li>
+<li><strong>2024</strong>: One paper accepted by <strong>IGARSS 2024</strong> (Distortion-aware).</li>
+<li><strong>2024</strong>: One paper accepted by <strong>PAKDD 2024</strong> (SegNet, Oral).</li>
+<li><strong>2024</strong>: One paper accepted by <strong>JAG</strong> (Semi-supervised Object Detection).</li>
+<li><strong>2024</strong>: One paper accepted by <strong>IEEE TGRS</strong> (SSLChange).</li>
+<li><strong>2024</strong>: One paper accepted by <strong>IEEE TGRS</strong> (IDA-SiamNet).</li>
+<li><strong>2024</strong>: One paper accepted by <strong>IEEE JSTARS</strong> (COUD).</li>
+<li><strong>2024</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Memory-Augmented).</li>
+<li><strong>2023</strong>: One paper accepted by <strong>IEEE TGRS</strong> (Transformation-Invariant Network).</li>
+<li><strong>2023</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Masked Second-Order Pooling).</li>
+<li><strong>2023</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Border Restriction).</li>
+<li><strong>2023</strong>: One paper accepted by <strong>ISPA 2023</strong> (Cascade Meta-RCNN, Oral).</li>
+<li><strong>2022</strong>: One paper accepted by <strong>IEEE GRSL</strong> (GAN-Based SAR-to-Optical).</li>
+<li><strong>2021</strong>: One paper accepted by <strong>IEEE JSTARS</strong> (AFDet).</li>
+<li><strong>2021</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Arbitrary-Oriented Object Detector).</li>
+<li><strong>2021</strong>: One paper accepted by <strong>IEEE GRSL</strong> (Gated Ladder-Shaped FPN).</li>
+<li><strong>2020</strong>: One paper accepted by <strong>IEEE GRSL</strong> (MSNet).</li>
+</ul>
+</div>
