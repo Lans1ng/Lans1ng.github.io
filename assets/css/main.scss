@@ -67,6 +67,11 @@
     .paper-box-text {
         max-width: 100%;
         order: 1;
+        line-height: 1.4;
+
+        p {
+            margin: 0.3em 0;
+        }
     }
 
     @include breakpoint($medium) {
