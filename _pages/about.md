@@ -48,7 +48,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs
 
-Y. Su, H. Zhang, S. Li, **N. Liu**, J. Liao, J. Pan, Y. Liu, X. Xing, C. Sun, C. Li, N. F. Chen, S. Yan, X. Yang, X. Xu
+Yongyi Su, Haojie Zhang, Shijie Li, **Nanqing Liu**, Jingyi Liao, Junyi Pan, Yuan Liu, Xiaofen Xing, Chong Sun, Chen Li, Nancy F. Chen, Shuicheng Yan, Xulei Yang, Xun Xu
+
+International Conference on Learning Representations (**ICLR**), 2026
 
 [[Paper]](https://arxiv.org/abs/2510.01954) [[Code]](https://github.com/Gorilla-Lab-SCUT/PaDT)
 </div>
@@ -58,7 +60,9 @@ Y. Su, H. Zhang, S. Li, **N. Liu**, J. Liao, J. Pan, Y. Liu, X. Xing, C. Sun, C.
 <div class='paper-box-text' markdown="1">
 Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement
 
-T. Chen, **N. Liu**, L. Yang, X. Yang, T. Li, X. Xu
+Tiankai Chen, **Nanqing Liu**, Li Yang, Xulei Yang, Tianrui Li, Xun Xu
+
+International Conference on Learning Representations (**ICLR**), 2026
 </div>
 </div>
 
@@ -66,7 +70,9 @@ T. Chen, **N. Liu**, L. Yang, X. Yang, T. Li, X. Xu
 <div class='paper-box-text' markdown="1">
 SAM-Guided Multi-view Fusion for Weakly Supervised 3D Point Cloud Segmentation
 
-Y. Qiao, **N. Liu\***, Y. Su, S. Li, X. Yang, B. Wen, N. Chen, T. Li, X. Xu
+Yuena Qiao, **Nanqing Liu\***, Yongyi Su, Shijie Li, Xulei Yang, Bihan Wen, Nancy F. Chen, Tianrui Li, Xun Xu
+
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2026
 </div>
 </div>
 
@@ -74,7 +80,9 @@ Y. Qiao, **N. Liu\***, Y. Su, S. Li, X. Yang, B. Wen, N. Chen, T. Li, X. Xu
 <div class='paper-box-text' markdown="1">
 Point-Supervised Oriented Ship Detection via Segment Anything Model for SAR Images
 
-Q. Lin, **N. Liu\***, Z. Tan, Y. Liu, Q. Long
+Qiwei Lin, **Nanqing Liu\***, Zhiyuan Tan, Yang Liu, Qinghua Long
+
+IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2026
 
 [[Paper]](https://ieeexplore.ieee.org/document/10758743)
 </div>
@@ -84,7 +92,9 @@ Q. Lin, **N. Liu\***, Z. Tan, Y. Liu, Q. Long
 <div class='paper-box-text' markdown="1">
 Blueprint Multiscale Aware and Linearized Feature Enhancement Network for Efficient Remote Sensing Image Super-Resolution
 
-R. Chen, **N. Liu**, Y.-C. Li, S. Lei, H.-C. Li
+Rui Chen, **Nanqing Liu**, Yun-Cheng Li, Sen Lei, Heng-Chao Li
+
+IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2026
 
 [[Paper]](https://ieeexplore.ieee.org/document/11278017)
 </div>
@@ -94,7 +104,9 @@ R. Chen, **N. Liu**, Y.-C. Li, S. Lei, H.-C. Li
 <div class='paper-box-text' markdown="1">
 On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning
 
-Y. Su, Y. Li, **N. Liu**, K. Jia, X. Yang, C.-S. Foo, X. Xu
+Yongyi Su, Yushu Li, **Nanqing Liu**, Kui Jia, Xulei Yang, Chuan-Sheng Foo, Xun Xu
+
+International Conference on Learning Representations (**ICLR**), 2025
 
 [[Paper]](https://arxiv.org/abs/2407.09398)
 </div>
@@ -104,7 +116,9 @@ Y. Su, Y. Li, **N. Liu**, K. Jia, X. Yang, C.-S. Foo, X. Xu
 <div class='paper-box-text' markdown="1">
 PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images
 
-**N. Liu**, X. Xu, Y. Su, H. Zhang, H.-C. Li
+**Nanqing Liu**, Xun Xu, Yongyi Su, Haojie Zhang, Heng-Chao Li
+
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025
 
 [[Paper]](https://ieeexplore.ieee.org/document/10839471) [[Code]](https://github.com/Lans1ng/PointSAM)
 </div>
@@ -114,7 +128,9 @@ PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images
 <div class='paper-box-text' markdown="1">
 Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation
 
-Y. Zhao, S. Lei, **N. Liu**, T. Celik, H.-C. Li, Q. Zhu
+Yitao Zhao, Sen Lei, **Nanqing Liu**, Turgay Celik, Heng-Chao Li, Qing Zhu
+
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025
 
 [[Paper]](https://ieeexplore.ieee.org/document/10839282)
 </div>
@@ -124,17 +140,21 @@ Y. Zhao, S. Lei, **N. Liu**, T. Celik, H.-C. Li, Q. Zhu
 <div class='paper-box-text' markdown="1">
 Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images
 
-J. Wang, Z. Ma, C. Wang, **N. Liu\***
+Jin Wang, Zongfang Ma, Chen Wang, **Nanqing Liu\***
+
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025
 
 [[Paper]](https://ieeexplore.ieee.org/document/10891623)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2025</div><img src='images/papers/m2s-detr.png' alt="M2S-DETR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors 2025</div><img src='images/papers/m2s-detr.png' alt="M2S-DETR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 M2S-DETR: A Mixed Receptive Field and Multiposition Encoding for Scale-Sensitive SAR Ship Detection With Transformer
 
-P. Guo, H.-C. Li, **N. Liu**, S. Lei, X. Geng, J. Pan
+Pengfei Guo, Heng-Chao Li, **Nanqing Liu**, Sen Lei, Xiongfei Geng, Jie Pan
+
+IEEE Sensors Journal, 2025
 
 [[Paper]](https://ieeexplore.ieee.org/document/10819610)
 </div>
@@ -144,7 +164,9 @@ P. Guo, H.-C. Li, **N. Liu**, S. Lei, X. Geng, J. Pan
 <div class='paper-box-text' markdown="1">
 Memory-Augmented Differential Network for Infrared Small Target Detection
 
-Y. Liu, S. Lei, **N. Liu**, J. Pan, H.-C. Li
+Yanqiong Liu, Sen Lei, **Nanqing Liu**, Jie Pan, Heng-Chao Li
+
+IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2025
 
 [[Paper]](https://ieeexplore.ieee.org/document/10379137)
 </div>
@@ -154,7 +176,9 @@ Y. Liu, S. Lei, **N. Liu**, J. Pan, H.-C. Li
 <div class='paper-box-text' markdown="1">
 PS-TOD: Point-Supervised Tiny Object Detection via Two-Stage Calibration
 
-Z. Wang, S. Lei, **N. Liu**, P. Guo, H.-C. Li
+Zihui Wang, Sen Lei, **Nanqing Liu**, Pengfei Guo, Heng-Chao Li
+
+IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2025
 
 [[Paper]](https://ieeexplore.ieee.org/document/11243559)
 </div>
@@ -164,7 +188,9 @@ Z. Wang, S. Lei, **N. Liu**, P. Guo, H.-C. Li
 <div class='paper-box-text' markdown="1">
 RoSD-SAR: Robust Ship Detection in SAR Images with Noisy Box
 
-P. Guo, S. Lei, C. Liu, **N. Liu**, H.-C. Li
+Pengfei Guo, Sen Lei, Chengxin Liu, **Nanqing Liu**, Heng-Chao Li
+
+IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2025
 
 [[Paper]](https://ieeexplore.ieee.org/document/11243777)
 </div>
@@ -174,7 +200,9 @@ P. Guo, S. Lei, C. Liu, **N. Liu**, H.-C. Li
 <div class='paper-box-text' markdown="1">
 PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection
 
-Y. Gao, Y. Zhang, Z. Huang, **N. Liu**, D. Huang
+Yingjie Gao, Yanan Zhang, Ziyue Huang, **Nanqing Liu**, Di Huang
+
+ACM International Conference on Multimedia (**ACM MM**), 2024
 
 [[Paper]](https://dl.acm.org/doi/10.1145/3664647.3681572)
 </div>
@@ -184,7 +212,9 @@ Y. Gao, Y. Zhang, Z. Huang, **N. Liu**, D. Huang
 <div class='paper-box-text' markdown="1">
 SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation
 
-Y. Zhao, T. Celik, **N. Liu**, F. Gao, H.-C. Li
+Yitao Zhao, Turgay Celik, **Nanqing Liu**, Feng Gao, Heng-Chao Li
+
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024
 
 [[Paper]](https://ieeexplore.ieee.org/document/10552802)
 </div>
@@ -194,7 +224,9 @@ Y. Zhao, T. Celik, **N. Liu**, F. Gao, H.-C. Li
 <div class='paper-box-text' markdown="1">
 COUD: Continual Urbanization Detector for Time Series Building Change Detection
 
-Y. Zhao, H.-C. Li, S. Lei, **N. Liu**, J. Pan, T. Celik
+Yitao Zhao, Heng-Chao Li, Sen Lei, **Nanqing Liu**, Jie Pan, Turgay Celik
+
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2024
 
 [[Paper]](https://ieeexplore.ieee.org/document/10433182)
 </div>
@@ -204,7 +236,9 @@ Y. Zhao, H.-C. Li, S. Lei, **N. Liu**, J. Pan, T. Celik
 <div class='paper-box-text' markdown="1">
 Semi-supervised object detection with uncurated unlabeled data for remote sensing images
 
-**N. Liu**, X. Xu, Y. Gao, Y. Zhao, H.-C. Li
+**Nanqing Liu**, Xun Xu, Yingjie Gao, Yitao Zhao, Heng-Chao Li
+
+International Journal of Applied Earth Observation and Geoinformation (**JAG**), 2024
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843224000864) [[Code]](https://github.com/Lans1ng/OSSOD)
 </div>
@@ -214,7 +248,9 @@ Semi-supervised object detection with uncurated unlabeled data for remote sensin
 <div class='paper-box-text' markdown="1">
 CLIP-guided Source-free Object Detection in Aerial Images
 
-**N. Liu**, X. Xu, Y. Su, C. Liu, P. Gong, H.-C. Li
+**Nanqing Liu**, Xun Xu, Yongyi Su, Chengxin Liu, Peiliang Gong, Heng-Chao Li
+
+IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2024
 
 [[Paper]](https://ieeexplore.ieee.org/document/10640553) (Oral)
 </div>
@@ -224,7 +260,9 @@ CLIP-guided Source-free Object Detection in Aerial Images
 <div class='paper-box-text' markdown="1">
 Toward Distortion-Aware Change Detection in Realistic Scenarios
 
-Y. Zhao, H.-C. Li, **N. Liu**, R. Wang
+Yitao Zhao, Heng-Chao Li, **Nanqing Liu**, Rui Wang
+
+IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2024
 
 [[Paper]](https://ieeexplore.ieee.org/document/10642074)
 </div>
@@ -234,7 +272,9 @@ Y. Zhao, H.-C. Li, **N. Liu**, R. Wang
 <div class='paper-box-text' markdown="1">
 Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images
 
-**N. Liu**, X. Xu, T. Celik, Z. Gan, H.-C. Li
+**Nanqing Liu**, Xun Xu, Turgay Celik, Zhi Gan, Heng-Chao Li
+
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2023
 
 [[Paper]](https://ieeexplore.ieee.org/document/10318106)
 </div>
