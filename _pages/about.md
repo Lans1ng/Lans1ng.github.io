@@ -9,7 +9,7 @@ redirect_from:
 
 <p style="font-size: 0.8em;">I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</a>. I received my Ph.D. in Information and Communication Engineering from <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a> in 2025, advised by Prof. <a href="https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN">Turgay Celik</a> and Prof. <a href="https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm">Hengchao Li</a>. My research focuses on remote sensing image analysis and computer vision, particularly in few-shot object detection, semi-supervised object detection, domain adaptation, and weakly-supervised segmentation. From February 2023 to December 2024, I was a research intern at <a href="https://www.a-star.edu.sg/">A*STAR</a> in Singapore.</p>
 
-# 🔔 News
+<h1 id="news" style="margin-bottom: 10px;">🔔 News</h1>
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
 <li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
@@ -40,7 +40,7 @@ redirect_from:
 </ul>
 </div>
 
-<div style="margin-top: 2em;"></div>
+<div style="margin-top: 2.5em;"></div>
 
 <style>
 .paper-title { font-weight: bold; font-size: 0.95em; color: #444; margin-bottom: 5px; line-height: 1.4; }
@@ -66,8 +66,8 @@ redirect_from:
 .btn-bib:hover { background-color: #6B8E23; color: #fff; }
 </style>
 
-# 🔬 Recent Publications
-<p style="font-size: 0.85em; color: #888; margin-top: -10px;">* denotes corresponding author</p>
+<h1 id="recent-publications" style="margin-bottom: 5px;">🔬 Recent Publications</h1>
+<p style="font-size: 0.85em; color: #888; margin-top: 0; margin-bottom: 20px;">* denotes corresponding author</p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
 <div class='paper-box-text'>
@@ -251,8 +251,11 @@ redirect_from:
 
 <p><a href="/publications/">Full list →</a></p>
 
-# Academic Service
+<div style="margin-top: 3em;"></div>
 
-- **Journal Reviewer:** TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL
-- **Conference Reviewer:** ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025, ICONIP 2023
-- **Membership:** IEEE Member
+<h1 id="academic-service" style="margin-bottom: 15px;">💼 Academic Service</h1>
+<ul style="font-size: 0.9em; line-height: 1.6;">
+<li><strong>Journal Reviewer:</strong> TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL</li>
+<li><strong>Conference Reviewer:</strong> ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025, ICONIP 2023</li>
+<li><strong>Membership:</strong> IEEE Member</li>
+</ul>
