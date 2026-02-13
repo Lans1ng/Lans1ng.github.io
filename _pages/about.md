@@ -66,8 +66,8 @@ redirect_from:
 .btn-bib:hover { background-color: #6B8E23; color: #fff; }
 </style>
 
-<h1 id="recent-publications" style="margin-bottom: 5px;">🔬 Recent Publications</h1>
-<p style="font-size: 0.85em; color: #888; margin-top: 0; margin-bottom: 20px;">* denotes corresponding author</p>
+<h1 id="recent-publications" style="margin-bottom: 0;">🔬 Recent Publications</h1>
+<p style="font-size: 0.85em; color: #888; margin-top: 0; margin-bottom: 8px;">* denotes corresponding author</p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
 <div class='paper-box-text'>
