@@ -14,9 +14,10 @@ redirect_from:
 <ul style="list-style: none; padding-left: 0; margin: 0;">
 <li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
 <li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
+<li><strong>2026.01</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2025.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2025.06</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong>.</li>
-<li><strong>2025.03</strong>: Two papers accepted by <strong>IGARSS 2025</strong> (1 Oral).</li>
+<li><strong>2025.03</strong>: Two papers accepted by <strong>IGARSS 2025</strong>.</li>
 <li><strong>2025.03</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
 <li><strong>2025.01</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2025.01</strong>: One paper accepted by <strong>ICLR 2025</strong>.</li>
@@ -29,7 +30,7 @@ redirect_from:
 <li><strong>2024.03</strong>: One paper accepted by <strong>JAG</strong>.</li>
 <li><strong>2024.02</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
 <li><strong>2024.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
-<li><strong>2023.06</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
+<li><strong>2023.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2023.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2023.06</strong>: One paper accepted by <strong>ISPA 2023</strong> (Oral).</li>
 <li><strong>2022.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
