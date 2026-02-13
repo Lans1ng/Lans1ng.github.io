@@ -44,7 +44,8 @@ redirect_from:
 
 <style>
 .paper-title { font-weight: bold; font-size: 1.05em; color: #444; margin-bottom: 5px; line-height: 1.4; }
-.paper-authors { color: #666; font-size: 0.95em; margin-bottom: 6px; font-weight: 300; }
+.paper-authors { color: #888; font-size: 0.95em; margin-bottom: 6px; font-weight: 300; }
+.paper-authors b { font-weight: 600; color: #333; }
 .paper-venue { color: #333; font-size: 0.95em; margin-bottom: 10px; }
 .btn-link {
     display: inline-block;
@@ -66,6 +67,7 @@ redirect_from:
 </style>
 
 # 🔬 Recent Publications
+<p style="font-size: 0.85em; color: #888; margin-top: -10px;">* denotes corresponding author</p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
 <div class='paper-box-text'>
