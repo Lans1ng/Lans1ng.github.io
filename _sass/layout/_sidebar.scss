@@ -23,7 +23,7 @@
     position: fixed;
     left: 0;
     padding-top: $masthead-height;
-    padding-left: 1em;
+    padding-left: 2em;
   }
 
   @include breakpoint($large) {
