@@ -74,7 +74,7 @@ Y. Qiao, **N. Liu\***, Y. Su, S. Li, X. Yang, B. Wen, N. Chen, T. Li, X. Xu
 <div class='paper-box-text' markdown="1">
 Point-Supervised Oriented Ship Detection via Segment Anything Model for SAR Images
 
-Q. Lin, **N. Liu**, Z. Tan, Y. Liu, Q. Long
+Q. Lin, **N. Liu\***, Z. Tan, Y. Liu, Q. Long
 
 [[Paper]](https://ieeexplore.ieee.org/document/10758743)
 </div>
