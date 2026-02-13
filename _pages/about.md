@@ -46,11 +46,11 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs](https://openreview.net/forum?id=xF0Dcmvsl0)
+Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs
 
 Y. Su, H. Zhang, S. Li, **N. Liu**, J. Liao, J. Pan, Y. Liu, X. Xing, C. Sun, C. Li, N. F. Chen, S. Yan, X. Yang, X. Xu
 
-[[arXiv]](https://arxiv.org/abs/2510.01954) [[Code]](https://github.com/Gorilla-Lab-SCUT/PaDT)
+[[Paper]](https://arxiv.org/abs/2510.01954) [[Code]](https://github.com/Gorilla-Lab-SCUT/PaDT)
 </div>
 </div>
 
@@ -72,9 +72,11 @@ Y. Qiao, **N. Liu\***, Y. Su, S. Li, X. Yang, B. Wen, N. Chen, T. Li, X. Xu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/point2rbox4sar.png' alt="Point2RBox4SAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Point-Supervised Oriented Ship Detection via Segment Anything Model for SAR Images](https://ieeexplore.ieee.org/document/10758743)
+Point-Supervised Oriented Ship Detection via Segment Anything Model for SAR Images
 
 Q. Lin, **N. Liu**, Z. Tan, Y. Liu, Q. Long
+
+[[Paper]](https://ieeexplore.ieee.org/document/10758743)
 </div>
 </div>
 
@@ -83,58 +85,68 @@ Q. Lin, **N. Liu**, Z. Tan, Y. Liu, Q. Long
 Blueprint Multiscale Aware and Linearized Feature Enhancement Network for Efficient Remote Sensing Image Super-Resolution
 
 R. Chen, **N. Liu**, Y.-C. Li, S. Lei, H.-C. Li
+
+[[Paper]](https://ieeexplore.ieee.org/document/11278017)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/ttdp.png' alt="TTDP" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning](https://openreview.net/forum?id=JNb4r2j9Ap)
+On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning
 
 Y. Su, Y. Li, **N. Liu**, K. Jia, X. Yang, C.-S. Foo, X. Xu
 
-[[arXiv]](https://arxiv.org/abs/2407.09398)
+[[Paper]](https://arxiv.org/abs/2407.09398)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/papers/pointsam.png' alt="PointSAM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images](https://ieeexplore.ieee.org/document/10839471)
+PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images
 
 **N. Liu**, X. Xu, Y. Su, H. Zhang, H.-C. Li
 
-[[arXiv]](https://arxiv.org/abs/2409.13401) [[Code]](https://github.com/Lans1ng/PointSAM)
+[[Paper]](https://ieeexplore.ieee.org/document/10839471) [[Code]](https://github.com/Lans1ng/PointSAM)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/papers/matchcd.png' alt="MatchCD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation](https://ieeexplore.ieee.org/document/10839282)
+Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation
 
 Y. Zhao, S. Lei, **N. Liu**, T. Celik, H.-C. Li, Q. Zhu
+
+[[Paper]](https://ieeexplore.ieee.org/document/10839282)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='images/papers/oag-fsod.png' alt="OAG-FSOD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images](https://ieeexplore.ieee.org/document/10891623)
+Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images
 
 J. Wang, Z. Ma, C. Wang, **N. Liu\***
+
+[[Paper]](https://ieeexplore.ieee.org/document/10891623)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2025</div><img src='images/papers/m2s-detr.png' alt="M2S-DETR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[M2S-DETR: A Mixed Receptive Field and Multiposition Encoding for Scale-Sensitive SAR Ship Detection With Transformer](https://ieeexplore.ieee.org/document/10819610)
+M2S-DETR: A Mixed Receptive Field and Multiposition Encoding for Scale-Sensitive SAR Ship Detection With Transformer
 
 P. Guo, H.-C. Li, **N. Liu**, S. Lei, X. Geng, J. Pan
+
+[[Paper]](https://ieeexplore.ieee.org/document/10819610)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2025</div><img src='images/papers/mad-net.png' alt="MAD-Net" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Memory-Augmented Differential Network for Infrared Small Target Detection](https://ieeexplore.ieee.org/document/10379137)
+Memory-Augmented Differential Network for Infrared Small Target Detection
 
 Y. Liu, S. Lei, **N. Liu**, J. Pan, H.-C. Li
+
+[[Paper]](https://ieeexplore.ieee.org/document/10379137)
 </div>
 </div>
 
@@ -143,6 +155,8 @@ Y. Liu, S. Lei, **N. Liu**, J. Pan, H.-C. Li
 PS-TOD: Point-Supervised Tiny Object Detection via Two-Stage Calibration
 
 Z. Wang, S. Lei, **N. Liu**, P. Guo, H.-C. Li
+
+[[Paper]](https://ieeexplore.ieee.org/document/11243559)
 </div>
 </div>
 
@@ -151,68 +165,78 @@ Z. Wang, S. Lei, **N. Liu**, P. Guo, H.-C. Li
 RoSD-SAR: Robust Ship Detection in SAR Images with Noisy Box
 
 P. Guo, S. Lei, C. Liu, **N. Liu**, H.-C. Li
+
+[[Paper]](https://ieeexplore.ieee.org/document/11243777)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/papers/ps-ttl.png' alt="PS-TTL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection](https://dl.acm.org/doi/10.1145/3664647.3681572)
+PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection
 
 Y. Gao, Y. Zhang, Z. Huang, **N. Liu**, D. Huang
+
+[[Paper]](https://dl.acm.org/doi/10.1145/3664647.3681572)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/papers/sslchange.png' alt="SSLChange" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation](https://ieeexplore.ieee.org/document/10552802)
+SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation
 
 Y. Zhao, T. Celik, **N. Liu**, F. Gao, H.-C. Li
+
+[[Paper]](https://ieeexplore.ieee.org/document/10552802)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2024</div><img src='images/papers/coud.png' alt="COUD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[COUD: Continual Urbanization Detector for Time Series Building Change Detection](https://ieeexplore.ieee.org/document/10433182)
+COUD: Continual Urbanization Detector for Time Series Building Change Detection
 
 Y. Zhao, H.-C. Li, S. Lei, **N. Liu**, J. Pan, T. Celik
+
+[[Paper]](https://ieeexplore.ieee.org/document/10433182)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src='images/papers/ossod.png' alt="OSSOD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Semi-supervised object detection with uncurated unlabeled data for remote sensing images](https://www.sciencedirect.com/science/article/pii/S1569843224000864)
+Semi-supervised object detection with uncurated unlabeled data for remote sensing images
 
 **N. Liu**, X. Xu, Y. Gao, Y. Zhao, H.-C. Li
 
-[[Code]](https://github.com/Lans1ng/OSSOD)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843224000864) [[Code]](https://github.com/Lans1ng/OSSOD)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/papers/igarss-sfda.png' alt="SFDA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CLIP-guided Source-free Object Detection in Aerial Images](https://ieeexplore.ieee.org/document/10640553)
+CLIP-guided Source-free Object Detection in Aerial Images
 
 **N. Liu**, X. Xu, Y. Su, C. Liu, P. Gong, H.-C. Li
 
-(Oral)
+[[Paper]](https://ieeexplore.ieee.org/document/10640553) (Oral)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/papers/distortion.png' alt="Distortion-CD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Toward Distortion-Aware Change Detection in Realistic Scenarios](https://ieeexplore.ieee.org/document/10642074)
+Toward Distortion-Aware Change Detection in Realistic Scenarios
 
 Y. Zhao, H.-C. Li, **N. Liu**, R. Wang
+
+[[Paper]](https://ieeexplore.ieee.org/document/10642074)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/papers/tinet.png' alt="TINet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images](https://ieeexplore.ieee.org/document/10318106)
+Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images
 
 **N. Liu**, X. Xu, T. Celik, Z. Gan, H.-C. Li
 
-[[arXiv]](https://arxiv.org/abs/2303.06817)
+[[Paper]](https://ieeexplore.ieee.org/document/10318106)
 </div>
 </div>
 
