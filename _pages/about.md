@@ -197,6 +197,14 @@ Y. Zhao, H.-C. Li, S. Lei, **N. Liu**, J. Pan, T. Celik
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/papers/distortion.png' alt="Distortion-CD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Toward Distortion-Aware Change Detection in Realistic Scenarios](https://ieeexplore.ieee.org/document/10642074)
+
+Y. Zhao, H.-C. Li, **N. Liu**, R. Wang
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/papers/tinet.png' alt="TINet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images](https://ieeexplore.ieee.org/document/10318106)
