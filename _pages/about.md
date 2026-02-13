@@ -207,57 +207,7 @@ Y. Zhao, H.-C. Li, S. Lei, **N. Liu**, J. Pan, T. Celik
 </div>
 </div>
 
-<div style="font-size: 0.85em;">
-
-<h3>2025</h3>
-<ul style="padding-left: 1.2em; margin-top: 0.3em;">
-<li>J. Wang, Z. Ma, C. Wang, <b>N. Liu*</b>, "Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images," <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</i>, 2025.</li>
-<li><b>N. Liu</b>, X. Xu, Y. Su, H. Zhang, H.-C. Li, "PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images," <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</i>, 2025.</li>
-<li>Y. Zhao, S. Lei, <b>N. Liu</b>, T. Celik, H.-C. Li, Q. Zhu, "Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation," <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</i>, 2025.</li>
-<li>P. Guo, H.-C. Li, <b>N. Liu</b>, S. Lei, X. Geng, J. Pan, "M2S-DETR: A Mixed Receptive Field and Multi-Position Encoding for Scale-Sensitive SAR Ship Detection with Transformer," <i>IEEE Sensors Journal</i>, 2025.</li>
-<li>Y. Su, Y. Li, <b>N. Liu</b>, K. Jia, X. Yang, C.-S. Foo, X. Xu, "On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning," <i>International Conference on Learning Representations (ICLR)</i>, 2025.</li>
-</ul>
-
-<h3>2024</h3>
-<ul style="padding-left: 1.2em; margin-top: 0.3em;">
-<li><b>N. Liu</b>, X. Xu, Y. Gao, Y. Zhao, H.-C. Li, "Semi-supervised object detection with uncurated unlabeled data for remote sensing images," <i>International Journal of Applied Earth Observation and Geoinformation (JAG)</i>, 2024.</li>
-<li><b>N. Liu</b>, X. Xu, Y. Su, C. Liu, P. Gong, H.-C. Li, "CLIP-guided Source-free Object Detection in Aerial Images," <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i>, 2024. (Oral)</li>
-<li>Y. Gao, Y. Zhang, Z. Huang, <b>N. Liu</b>, D. Huang, "PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection," <i>ACM International Conference on Multimedia (ACM MM)</i>, 2024.</li>
-<li>Y. Liu, S. Lei, <b>N. Liu</b>, J. Pan, H.-C. Li, "Memory-Augmented Differential Network for Infrared Small Target Detection," <i>IEEE Geoscience and Remote Sensing Letters (GRSL)</i>, 2024.</li>
-<li>Y. Zhao, T. Celik, <b>N. Liu</b>, F. Gao, H.-C. Li, "SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation," <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</i>, 2024.</li>
-<li>Y. Zhao, H.-C. Li, S. Lei, <b>N. Liu</b>, J. Pan, T. Celik, "COUD: Continual Urbanization Detector for Time Series Building Change Detection," <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</i>, 2024.</li>
-<li>Y.-C. Li, S. Lei, <b>N. Liu</b>, H.-C. Li, Q. Du, "IDA-SiamNet: Interactive- and Dynamic-Aware Siamese Network for Building Change Detection," <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</i>, 2024.</li>
-<li>Y. Zhao, H.-C. Li, <b>N. Liu</b>, R. Wang, "Toward distortion-aware change detection in realistic scenarios," <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i>, 2024.</li>
-<li>R. Pang, H. Tan, Y. Yang, X. Xu, <b>N. Liu</b>, P. Zhang, "A Novel SegNet Model for Crack Image Semantic Segmentation in Bridge Inspection," <i>Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i>, 2024. (Oral)</li>
-</ul>
-
-<h3>2023</h3>
-<ul style="padding-left: 1.2em; margin-top: 0.3em;">
-<li><b>N. Liu</b>, X. Xu, T. Celik, Z. Gan, H.-C. Li, "Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images," <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</i>, 2023.</li>
-<li>J. Deng, Q. Wang, <b>N. Liu*</b>, "Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification," <i>IEEE Geoscience and Remote Sensing Letters (GRSL)</i>, 2023.</li>
-<li>S. Li, Q. Jiang, X. Jin, <b>N. Liu</b>, S. Chen, S.-J. Lee, "Cascade Meta-RCNN for Few-shot Object Detection," <i>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)</i>, 2023. (Oral)</li>
-<li>P. Guo, T. Celik, <b>N. Liu</b>, H.-C. Li, "Break Through the Border Restriction of Horizontal Bounding Box for Arbitrary-Oriented Ship Detection in SAR Images," <i>IEEE Geoscience and Remote Sensing Letters (GRSL)</i>, 2023.</li>
-</ul>
-
-<h3>2022</h3>
-<ul style="padding-left: 1.2em; margin-top: 0.3em;">
-<li>Y. Zhao, T. Celik, <b>N. Liu</b>, H.-C. Li, "A Comparative Analysis of GAN-Based Methods for SAR-to-Optical Image Translation," <i>IEEE Geoscience and Remote Sensing Letters (GRSL)</i>, 2022.</li>
-</ul>
-
-<h3>2021</h3>
-<ul style="padding-left: 1.2em; margin-top: 0.3em;">
-<li><b>N. Liu</b>, T. Celik, T. Zhao, C. Zhang, H.-C. Li, "AFDet: Toward More Accurate and Faster Object Detection in Remote Sensing Images," <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</i>, 2021.</li>
-<li>T. Zhao, <b>N. Liu*</b>, T. Celik, H.-C. Li, "An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images," <i>IEEE Geoscience and Remote Sensing Letters (GRSL)</i>, 2021.</li>
-<li><b>N. Liu</b>, T. Celik, H.-C. Li, "Gated Ladder-Shaped Feature Pyramid Network for Object Detection in Optical Remote Sensing Images," <i>IEEE Geoscience and Remote Sensing Letters (GRSL)</i>, 2021.</li>
-</ul>
-
-<h3>2020</h3>
-<ul style="padding-left: 1.2em; margin-top: 0.3em;">
-<li><b>N. Liu</b>, T. Celik, H.-C. Li, "MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification," <i>IEEE Geoscience and Remote Sensing Letters (GRSL)</i>, 2020.</li>
-</ul>
-
 <p><a href="/publications/">Full list →</a></p>
-</div>
 
 # Academic Service
 
