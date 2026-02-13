@@ -43,7 +43,7 @@ redirect_from:
 <div style="margin-top: 2em;"></div>
 
 <style>
-.paper-title { font-weight: bold; font-size: 1.05em; color: #444; margin-bottom: 5px; line-height: 1.4; }
+.paper-title { font-weight: bold; font-size: 0.95em; color: #444; margin-bottom: 5px; line-height: 1.4; }
 .paper-authors { color: #888; font-size: 0.95em; margin-bottom: 6px; font-weight: 300; }
 .paper-authors b { font-weight: 600; color: #333; }
 .paper-venue { color: #333; font-size: 0.95em; margin-bottom: 10px; }
