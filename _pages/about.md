@@ -43,8 +43,8 @@ redirect_from:
 <div style="margin-top: 2em;"></div>
 
 <style>
-.paper-title { font-weight: bold; font-size: 1.05em; color: #111; margin-bottom: 5px; line-height: 1.4; }
-.paper-authors { color: #666; font-size: 0.95em; margin-bottom: 6px; }
+.paper-title { font-weight: bold; font-size: 1.05em; color: #444; margin-bottom: 5px; line-height: 1.4; }
+.paper-authors { color: #666; font-size: 0.95em; margin-bottom: 6px; font-weight: 300; }
 .paper-venue { color: #333; font-size: 0.95em; margin-bottom: 10px; }
 .btn-link {
     display: inline-block;
