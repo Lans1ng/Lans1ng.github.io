@@ -110,7 +110,7 @@ redirect_from:
 <div class="paper-title">Blueprint Multiscale Aware and Linearized Feature Enhancement Network for Efficient Remote Sensing Image Super-Resolution</div>
 <div class="paper-authors">Rui Chen, <b>Nanqing Liu</b>, Yun-Cheng Li, Sen Lei, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2026</div>
-<div><a href="https://ieeexplore.ieee.org/document/11278017" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/blnet2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/11278017" class="btn-link btn-paper">Paper</a> <a href="https://github.com/crcherry/BLNet" class="btn-link btn-code">Code</a> <a href="files/bibtex/blnet2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -119,7 +119,7 @@ redirect_from:
 <div class="paper-title">On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning</div>
 <div class="paper-authors">Yongyi Su, Yushu Li, <b>Nanqing Liu</b>, Kui Jia, Xulei Yang, Chuan-Sheng Foo, Xun Xu</div>
 <div class="paper-venue">International Conference on Learning Representations (<b>ICLR</b>), 2025</div>
-<div><a href="https://arxiv.org/abs/2407.09398" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/ttdp2025.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://arxiv.org/abs/2407.09398" class="btn-link btn-paper">Paper</a> <a href="https://github.com/Gorilla-Lab-SCUT/RTTDP" class="btn-link btn-code">Code</a> <a href="files/bibtex/ttdp2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -155,7 +155,7 @@ redirect_from:
 <div class="paper-title">M2S-DETR: A Mixed Receptive Field and Multiposition Encoding for Scale-Sensitive SAR Ship Detection With Transformer</div>
 <div class="paper-authors">Pengfei Guo, Heng-Chao Li, <b>Nanqing Liu</b>, Sen Lei, Xiongfei Geng, Jie Pan</div>
 <div class="paper-venue">IEEE Sensors Journal, 2025</div>
-<div><a href="https://ieeexplore.ieee.org/document/10819610" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/m2sdetr2025.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/10819610" class="btn-link btn-paper">Paper</a> <a href="https://github.com/douling843/M2S-DETR" class="btn-link btn-code">Code</a> <a href="files/bibtex/m2sdetr2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -164,7 +164,7 @@ redirect_from:
 <div class="paper-title">Memory-Augmented Differential Network for Infrared Small Target Detection</div>
 <div class="paper-authors">Yanqiong Liu, Sen Lei, <b>Nanqing Liu</b>, Jie Pan, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2025</div>
-<div><a href="https://ieeexplore.ieee.org/document/10379137" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/madnet2025.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/10379137" class="btn-link btn-paper">Paper</a> <a href="https://github.com/joan2joan/MAD-Net" class="btn-link btn-code">Code</a> <a href="files/bibtex/madnet2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -191,7 +191,7 @@ redirect_from:
 <div class="paper-title">PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection</div>
 <div class="paper-authors">Yingjie Gao, Yanan Zhang, Ziyue Huang, <b>Nanqing Liu</b>, Di Huang</div>
 <div class="paper-venue">ACM International Conference on Multimedia (<b>ACM MM</b>), 2024</div>
-<div><a href="https://dl.acm.org/doi/10.1145/3664647.3681572" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/psttl2024.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://dl.acm.org/doi/10.1145/3664647.3681572" class="btn-link btn-paper">Paper</a> <a href="https://github.com/gaoyingjay/PS-TTL" class="btn-link btn-code">Code</a> <a href="files/bibtex/psttl2024.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -200,7 +200,7 @@ redirect_from:
 <div class="paper-title">SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation</div>
 <div class="paper-authors">Yitao Zhao, Turgay Celik, <b>Nanqing Liu</b>, Feng Gao, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2024</div>
-<div><a href="https://ieeexplore.ieee.org/document/10552802" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/sslchange2024.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/10552802" class="btn-link btn-paper">Paper</a> <a href="https://github.com/MarsZhaoYT/SSLChange" class="btn-link btn-code">Code</a> <a href="files/bibtex/sslchange2024.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -227,7 +227,7 @@ redirect_from:
 <div class="paper-title">CLIP-guided Source-free Object Detection in Aerial Images</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Xun Xu, Yongyi Su, Chengxin Liu, Peiliang Gong, Heng-Chao Li</div>
 <div class="paper-venue">IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS</b>), 2024 (Oral)</div>
-<div><a href="https://ieeexplore.ieee.org/document/10640553" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/sfodrs2024.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/10640553" class="btn-link btn-paper">Paper</a> <a href="https://github.com/Lans1ng/SFOD-RS" class="btn-link btn-code">Code</a> <a href="files/bibtex/sfodrs2024.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
