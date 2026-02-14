@@ -32,14 +32,13 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <li><strong>2024.03</strong>: Two papers accepted by <strong>IGARSS 2024</strong> (1 Oral).</li>
 <li><strong>2024.03</strong>: One paper accepted by <strong>JAG</strong>.</li>
 <li><strong>2024.02</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
-<li><strong>2024.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2023.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2023.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2023.06</strong>: One paper accepted by <strong>ISPA 2023</strong> (Oral).</li>
 <li><strong>2022.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2021.06</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
 <li><strong>2021.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
-<li><strong>2020.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
+<li><strong>2020.12</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 </ul>
 </div>
 
@@ -258,6 +257,15 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-authors">Jiahao Deng, Qiong Wang, <b>Nanqing Liu*</b></div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2023</div>
 <div><a href="https://ieeexplore.ieee.org/document/10138050" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/masked2023.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/papers/break.png' alt="Border-Restriction" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">Break Through the Border Restriction of Horizontal Bounding Box for Arbitrary-Oriented Ship Detection in SAR Images</div>
+<div class="paper-authors">Pengfei Guo, Turgay Celik, <b>Nanqing Liu</b>, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2023</div>
+<div><a href="https://ieeexplore.ieee.org/document/10138431" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/break2023.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
