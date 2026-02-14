@@ -22,6 +22,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <li><strong>2025.03</strong>: Two papers accepted by <strong>IGARSS 2025</strong>.</li>
 <li><strong>2025.03</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
 <li><strong>2025.01</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
+<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2025.01</strong>: One paper accepted by <strong>ICLR 2025</strong>.</li>
 <li><strong>2024.10</strong>: One paper accepted by <strong>ACM MM 2024</strong>.</li>
 <li><strong>2024.07</strong>: Received <strong>IEEE GRSS Travel Grant</strong> for IGARSS 2024.</li>
@@ -248,6 +249,42 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-authors"><b>Nanqing Liu</b>, Xun Xu, Turgay Celik, Zhi Gan, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2023</div>
 <div><a href="https://ieeexplore.ieee.org/document/10318106" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/tinet2023.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/papers/masked-second-order.png' alt="Masked-Second-Order" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification</div>
+<div class="paper-authors">Jiahao Deng, Qiong Wang, <b>Nanqing Liu*</b></div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2023</div>
+<div><a href="https://ieeexplore.ieee.org/document/10138050" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/masked2023.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/papers/arbitrary-oriented.png' alt="Arbitrary-Oriented" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images</div>
+<div class="paper-authors">Tao Zhao, <b>Nanqing Liu*</b>, Turgay Celik, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2021</div>
+<div><a href="https://ieeexplore.ieee.org/document/9328508" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/arbitrary2021.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src='images/papers/afdet.png' alt="AFDet" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">AFDet: Toward More Accurate and Faster Object Detection in Remote Sensing Images</div>
+<div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Tao Zhao, Chen Zhang, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>), 2021</div>
+<div><a href="https://ieeexplore.ieee.org/document/9437790" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/afdet2021.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2020</div><img src='images/papers/msnet.png' alt="MSNet" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification</div>
+<div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2020</div>
+<div><a href="https://ieeexplore.ieee.org/document/8954056" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/msnet2020.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
