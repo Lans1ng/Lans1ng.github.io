@@ -252,7 +252,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/papers/masked-second-order.png' alt="Masked-Second-Order" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/papers/msopnet.png' alt="Masked-Second-Order" width="100%"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification</div>
 <div class="paper-authors">Jiahao Deng, Qiong Wang, <b>Nanqing Liu*</b></div>
@@ -261,7 +261,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/papers/arbitrary-oriented.png' alt="Arbitrary-Oriented" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/papers/vgl.png' alt="Arbitrary-Oriented" width="100%"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images</div>
 <div class="paper-authors">Tao Zhao, <b>Nanqing Liu*</b>, Turgay Celik, Heng-Chao Li</div>
