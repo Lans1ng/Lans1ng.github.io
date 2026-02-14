@@ -261,6 +261,15 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/papers/image2image.png' alt="GAN-SAR-Optical" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">A Comparative Analysis of GAN-Based Methods for SAR-to-Optical Image Translation</div>
+<div class="paper-authors">Yitao Zhao, Turgay Celik, <b>Nanqing Liu</b>, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2022</div>
+<div><a href="https://ieeexplore.ieee.org/document/9627684" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/gansar2022.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/papers/vgl.png' alt="Arbitrary-Oriented" width="100%"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images</div>
