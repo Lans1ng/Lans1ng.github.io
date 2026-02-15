@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "🎓 About Me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 <p style="font-size: 0.9em; line-height: 1.6; color: #333;">
 I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</a>. I obtained my Ph.D. degree in Information and Communication Engineering from <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a> in 2025, where I was supervised by Prof. <a href="https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN">Turgay Celik</a> and Prof. <a href="https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm">Heng-Chao Li</a>. From Feb 2023 to Dec 2024, I was a Research Intern at <a href="https://www.a-star.edu.sg/">A*STAR</a> in Singapore, supervised by Dr. <a href="https://alex-xun-xu.github.io/">Xun Xu</a> and Dr. <a href="https://scholar.google.com/citations?user=AgbeqGkAAAAJ&hl=en">Chuan-Sheng Foo</a>. My research focuses on <strong>remote sensing image analysis</strong> and <strong>computer vision</strong>, with specific interests in few-shot/semi-supervised object detection, domain adaptation, and weakly-supervised segmentation.
 </p>
