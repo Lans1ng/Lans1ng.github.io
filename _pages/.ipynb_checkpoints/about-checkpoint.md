@@ -1,14 +1,5 @@
----
-permalink: /
-title: "🎓 About Me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 <p style="font-size: 0.9em; line-height: 1.6; color: #333;">
-I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</a>. I obtained my Ph.D. degree in Information and Communication Engineering from <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a> in 2025, where I was supervised by Prof. <a href="https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN">Turgay Celik</a> and Prof. <a href="https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm">Heng-Chao Li</a>. From Feb 2023 to Dec 2024, I was a Research Intern at <a href="https://www.a-star.edu.sg/">A*STAR</a> in Singapore, supervised by Dr. <a href="https://alex-xun-xu.github.io/">Xun Xu</a> and Dr. <a href="https://scholar.google.com/citations?user=AgbeqGkAAAAJ&hl=en">Chuan-Sheng Foo</a>. My research focuses on <strong>remote sensing image analysis</strong> and <strong>computer vision</strong>, with specific interests in few-shot/semi-supervised object detection, domain adaptation, and weakly-supervised segmentation.
+I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</a>. I obtained my Ph.D. degree in Information and Communication Engineering from <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a> in 2025, where I was supervised by Prof. <a href="https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN">Turgay Celik</a> and Prof. <a href="https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm">Heng-Chao Li</a>. From Feb 2023 to Dec 2024, I was a Research Intern at <a href="https://www.a-star.edu.sg/">A*STAR</a> in Singapore, supervised by Dr. <a href="https://alex-xun-xu.github.io/">Xun Xu</a> and Dr. <a href="https://scholar.google.com/citations?user=AgbeqGkAAAAJ&hl=en">Chuan-Sheng Foo</a>. My research focuses on <strong>remote sensing image analysis</strong> and <strong>computer vision</strong>, with specific interests in few-shot/semi-supervised object detection, domain adaptation, and weakly-supervised segmentation.
 </p>
 
 <h1 id="news" style="margin-bottom: 10px;"><a href="#news" style="text-decoration: none; color: inherit;">🔔 News</a></h1>
@@ -22,6 +13,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <li><strong>2025.03</strong>: Two papers accepted by <strong>IGARSS 2025</strong>.</li>
 <li><strong>2025.03</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
 <li><strong>2025.01</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
+<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2025.01</strong>: One paper accepted by <strong>ICLR 2025</strong>.</li>
 <li><strong>2024.10</strong>: One paper accepted by <strong>ACM MM 2024</strong>.</li>
 <li><strong>2024.07</strong>: Received <strong>IEEE GRSS Travel Grant</strong> for IGARSS 2024.</li>
@@ -31,14 +23,13 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <li><strong>2024.03</strong>: Two papers accepted by <strong>IGARSS 2024</strong> (1 Oral).</li>
 <li><strong>2024.03</strong>: One paper accepted by <strong>JAG</strong>.</li>
 <li><strong>2024.02</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
-<li><strong>2024.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2023.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2023.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2023.06</strong>: One paper accepted by <strong>ISPA 2023</strong> (Oral).</li>
 <li><strong>2022.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2021.06</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
 <li><strong>2021.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
-<li><strong>2020.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
+<li><strong>2020.12</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
 </ul>
 </div>
 
@@ -103,7 +94,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Point-Supervised Oriented Ship Detection via Segment Anything Model for SAR Images</div>
 <div class="paper-authors">Qiwei Lin, <b>Nanqing Liu*</b>, Zhiyuan Tan, Yang Liu, Qinghua Long</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2026</div>
-<div><a href="https://ieeexplore.ieee.org/document/10758743" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/point2rbox4sar2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/11230842" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/point2rbox4sar2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -121,7 +112,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning</div>
 <div class="paper-authors">Yongyi Su, Yushu Li, <b>Nanqing Liu</b>, Kui Jia, Xulei Yang, Chuan-Sheng Foo, Xun Xu</div>
 <div class="paper-venue">International Conference on Learning Representations (<b>ICLR</b>), 2025</div>
-<div><a href="https://arxiv.org/abs/2407.09398" class="btn-link btn-paper">Paper</a> <a href="https://github.com/Gorilla-Lab-SCUT/RTTDP" class="btn-link btn-code">Code</a> <a href="files/bibtex/ttdp2025.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://arxiv.org/abs/2410.04682" class="btn-link btn-paper">Paper</a> <a href="https://github.com/Gorilla-Lab-SCUT/RTTDP" class="btn-link btn-code">Code</a> <a href="files/bibtex/ttdp2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -139,7 +130,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation</div>
 <div class="paper-authors">Yitao Zhao, Sen Lei, <b>Nanqing Liu</b>, Turgay Celik, Heng-Chao Li, Qing Zhu</div>
 <div class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2025</div>
-<div><a href="https://ieeexplore.ieee.org/document/10839282" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/matchcd2025.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/11072477" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/matchcd2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -148,7 +139,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images</div>
 <div class="paper-authors">Jin Wang, Zongfang Ma, Chen Wang, <b>Nanqing Liu*</b></div>
 <div class="paper-venue">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>), 2025</div>
-<div><a href="https://ieeexplore.ieee.org/document/10891623" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/oagfsod2025.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/11152320" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/oagfsod2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -166,7 +157,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Memory-Augmented Differential Network for Infrared Small Target Detection</div>
 <div class="paper-authors">Yanqiong Liu, Sen Lei, <b>Nanqing Liu</b>, Jie Pan, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2025</div>
-<div><a href="https://ieeexplore.ieee.org/document/10379137" class="btn-link btn-paper">Paper</a> <a href="https://github.com/joan2joan/MAD-Net" class="btn-link btn-code">Code</a> <a href="files/bibtex/madnet2025.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/10777476" class="btn-link btn-paper">Paper</a> <a href="https://github.com/joan2joan/MAD-Net" class="btn-link btn-code">Code</a> <a href="files/bibtex/madnet2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -202,7 +193,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation</div>
 <div class="paper-authors">Yitao Zhao, Turgay Celik, <b>Nanqing Liu</b>, Feng Gao, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2024</div>
-<div><a href="https://ieeexplore.ieee.org/document/10552802" class="btn-link btn-paper">Paper</a> <a href="https://github.com/MarsZhaoYT/SSLChange" class="btn-link btn-code">Code</a> <a href="files/bibtex/sslchange2024.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/10741199" class="btn-link btn-paper">Paper</a> <a href="https://github.com/MarsZhaoYT/SSLChange" class="btn-link btn-code">Code</a> <a href="files/bibtex/sslchange2024.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -211,7 +202,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">COUD: Continual Urbanization Detector for Time Series Building Change Detection</div>
 <div class="paper-authors">Yitao Zhao, Heng-Chao Li, Sen Lei, <b>Nanqing Liu</b>, Jie Pan, Turgay Celik</div>
 <div class="paper-venue">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>), 2024</div>
-<div><a href="https://ieeexplore.ieee.org/document/10433182" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/coud2024.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/10720916" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/coud2024.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -248,6 +239,60 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-authors"><b>Nanqing Liu</b>, Xun Xu, Turgay Celik, Zhi Gan, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2023</div>
 <div><a href="https://ieeexplore.ieee.org/document/10318106" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/tinet2023.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/papers/msopnet.png' alt="Masked-Second-Order" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification</div>
+<div class="paper-authors">Jiahao Deng, Qiong Wang, <b>Nanqing Liu*</b></div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2023</div>
+<div><a href="https://ieeexplore.ieee.org/document/10138050" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/masked2023.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/papers/break.png' alt="Border-Restriction" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">Break Through the Border Restriction of Horizontal Bounding Box for Arbitrary-Oriented Ship Detection in SAR Images</div>
+<div class="paper-authors">Pengfei Guo, Turgay Celik, <b>Nanqing Liu</b>, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2023</div>
+<div><a href="https://ieeexplore.ieee.org/document/10138431" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/break2023.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/papers/image2image.png' alt="GAN-SAR-Optical" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">A Comparative Analysis of GAN-Based Methods for SAR-to-Optical Image Translation</div>
+<div class="paper-authors">Yitao Zhao, Turgay Celik, <b>Nanqing Liu</b>, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2022</div>
+<div><a href="https://ieeexplore.ieee.org/document/9627684" class="btn-link btn-paper">Paper</a> <a href="https://github.com/MarsZhaoYT/SAR2Opt-Heterogeneous-Dataset" class="btn-link btn-code">Code</a> <a href="files/bibtex/gansar2022.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/papers/vgl.png' alt="Arbitrary-Oriented" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images</div>
+<div class="paper-authors">Tao Zhao, <b>Nanqing Liu*</b>, Turgay Celik, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2021</div>
+<div><a href="https://ieeexplore.ieee.org/document/9328508" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/arbitrary2021.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src='images/papers/afdet.png' alt="AFDet" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">AFDet: Toward More Accurate and Faster Object Detection in Remote Sensing Images</div>
+<div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Tao Zhao, Chen Zhang, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>), 2021</div>
+<div><a href="https://doi.org/10.1109/JSTARS.2021.3065415" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/afdet2021.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2020</div><img src='images/papers/msnet.png' alt="MSNet" width="100%"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification</div>
+<div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2020</div>
+<div><a href="https://ieeexplore.ieee.org/document/8954056" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/msnet2020.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
