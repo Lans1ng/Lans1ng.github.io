@@ -283,7 +283,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images</div>
 <div class="paper-authors">Tao Zhao, <b>Nanqing Liu*</b>, Turgay Celik, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2021</div>
-<div><a href="https://ieeexplore.ieee.org/document/9328508" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/arbitrary2021.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/9466238" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/arbitrary2021.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -292,7 +292,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">AFDet: Toward More Accurate and Faster Object Detection in Remote Sensing Images</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Tao Zhao, Chen Zhang, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>), 2021</div>
-<div><a href="https://doi.org/10.1109/JSTARS.2021.3065415" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/afdet2021.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/9616403" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/afdet2021.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -301,7 +301,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2020</div>
-<div><a href="https://ieeexplore.ieee.org/document/8954056" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/msnet2020.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/9302612" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/msnet2020.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
