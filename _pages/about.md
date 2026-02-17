@@ -71,7 +71,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <h1 id="recent-publications" style="margin-bottom: 0;"><a href="#recent-publications" style="text-decoration: none; color: inherit;">🔬 Recent Publications</a></h1>
 <p style="font-size: 0.85em; color: #888; margin-top: 0; margin-bottom: 0px;">* denotes corresponding author</p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs</div>
 <div class="paper-authors">Yongyi Su, Haojie Zhang, Shijie Li, <b>Nanqing Liu</b>, Jingyi Liao, Junyi Pan, Yuan Liu, Xiaofen Xing, Chong Sun, Chen Li, Nancy F. Chen, Shuicheng Yan, Xulei Yang, Xun Xu</div>
@@ -80,7 +80,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/pgllm.png' alt="PGLLM" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/pgllm.png' alt="PGLLM" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement</div>
 <div class="paper-authors">Tiankai Chen, <b>Nanqing Liu</b>, Li Yang, Xulei Yang, Tianrui Li, Xun Xu</div>
@@ -89,7 +89,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/papers/sam-pointcloud.png' alt="SAM-PointCloud" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/papers/sam-pointcloud.png' alt="SAM-PointCloud" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">SAM-Guided Multi-view Fusion for Weakly Supervised 3D Point Cloud Segmentation</div>
 <div class="paper-authors">Yuena Qiao, <b>Nanqing Liu*</b>, Yongyi Su, Shijie Li, Xulei Yang, Bihan Wen, Nancy F. Chen, Tianrui Li, Xun Xu</div>
@@ -98,7 +98,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/point2rbox4sar.png' alt="Point2RBox4SAR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/point2rbox4sar.png' alt="Point2RBox4SAR" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Point-Supervised Oriented Ship Detection via Segment Anything Model for SAR Images</div>
 <div class="paper-authors">Qiwei Lin, <b>Nanqing Liu*</b>, Zhiyuan Tan, Yang Liu, Qinghua Long</div>
@@ -107,7 +107,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/blnet.png' alt="BLNet" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/blnet.png' alt="BLNet" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Blueprint Multiscale Aware and Linearized Feature Enhancement Network for Efficient Remote Sensing Image Super-Resolution</div>
 <div class="paper-authors">Rui Chen, <b>Nanqing Liu</b>, Yun-Cheng Li, Sen Lei, Heng-Chao Li</div>
@@ -116,7 +116,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/ttdp.png' alt="TTDP" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src="images/papers/ttdp.png" alt="TTDP" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning</div>
 <div class="paper-authors">Yongyi Su, Yushu Li, <b>Nanqing Liu</b>, Kui Jia, Xulei Yang, Chuan-Sheng Foo, Xun Xu</div>
@@ -125,7 +125,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/papers/pointsam.png' alt="PointSAM" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src="images/papers/pointsam.png" alt="PointSAM" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Xun Xu, Yongyi Su, Haojie Zhang, Heng-Chao Li</div>
@@ -134,7 +134,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/papers/matchcd.png' alt="MatchCD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src="images/papers/matchcd.png" alt="MatchCD" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation</div>
 <div class="paper-authors">Yitao Zhao, Sen Lei, <b>Nanqing Liu</b>, Turgay Celik, Heng-Chao Li, Qing Zhu</div>
@@ -143,7 +143,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='images/papers/oag-fsod.png' alt="OAG-FSOD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src="images/papers/oag-fsod.png" alt="OAG-FSOD" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images</div>
 <div class="paper-authors">Jin Wang, Zongfang Ma, Chen Wang, <b>Nanqing Liu*</b></div>
@@ -152,7 +152,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors 2025</div><img src='images/papers/m2s-detr.png' alt="M2S-DETR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors 2025</div><img src="images/papers/m2s-detr.png" alt="M2S-DETR" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">M2S-DETR: A Mixed Receptive Field and Multiposition Encoding for Scale-Sensitive SAR Ship Detection With Transformer</div>
 <div class="paper-authors">Pengfei Guo, Heng-Chao Li, <b>Nanqing Liu</b>, Sen Lei, Xiongfei Geng, Jie Pan</div>
@@ -161,7 +161,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2025</div><img src='images/papers/mad-net.png' alt="MAD-Net" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2025</div><img src="images/papers/mad-net.png" alt="MAD-Net" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Memory-Augmented Differential Network for Infrared Small Target Detection</div>
 <div class="paper-authors">Yanqiong Liu, Sen Lei, <b>Nanqing Liu</b>, Jie Pan, Heng-Chao Li</div>
@@ -170,7 +170,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src='images/papers/ps-tod.png' alt="PS-TOD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src="images/papers/ps-tod.png" alt="PS-TOD" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">PS-TOD: Point-Supervised Tiny Object Detection via Two-Stage Calibration</div>
 <div class="paper-authors">Zihui Wang, Sen Lei, <b>Nanqing Liu</b>, Pengfei Guo, Heng-Chao Li</div>
@@ -179,7 +179,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src='images/papers/rosd-sar.png' alt="RoSD-SAR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src="images/papers/rosd-sar.png" alt="RoSD-SAR" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">RoSD-SAR: Robust Ship Detection in SAR Images with Noisy Box</div>
 <div class="paper-authors">Pengfei Guo, Sen Lei, Chengxin Liu, <b>Nanqing Liu</b>, Heng-Chao Li</div>
@@ -188,7 +188,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/papers/ps-ttl.png' alt="PS-TTL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src="images/papers/ps-ttl.png" alt="PS-TTL" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection</div>
 <div class="paper-authors">Yingjie Gao, Yanan Zhang, Ziyue Huang, <b>Nanqing Liu</b>, Di Huang</div>
@@ -197,7 +197,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/papers/sslchange.png' alt="SSLChange" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src="images/papers/sslchange.png" alt="SSLChange" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">SSLChange: A Self-Supervised Change Detection Framework Based on Domain Adaptation</div>
 <div class="paper-authors">Yitao Zhao, Turgay Celik, <b>Nanqing Liu</b>, Feng Gao, Heng-Chao Li</div>
@@ -206,7 +206,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2024</div><img src='images/papers/coud.png' alt="COUD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2024</div><img src="images/papers/coud.png" alt="COUD" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">COUD: Continual Urbanization Detector for Time Series Building Change Detection</div>
 <div class="paper-authors">Yitao Zhao, Heng-Chao Li, Sen Lei, <b>Nanqing Liu</b>, Jie Pan, Turgay Celik</div>
@@ -215,7 +215,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src='images/papers/ossod.png' alt="OSSOD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src="images/papers/ossod.png" alt="OSSOD" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Semi-supervised object detection with uncurated unlabeled data for remote sensing images</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Xun Xu, Yingjie Gao, Yitao Zhao, Heng-Chao Li</div>
@@ -224,7 +224,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/papers/igarss-sfda.png' alt="SFDA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src="images/papers/igarss-sfda.png" alt="SFDA" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">CLIP-guided Source-free Object Detection in Aerial Images</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Xun Xu, Yongyi Su, Chengxin Liu, Peiliang Gong, Heng-Chao Li</div>
@@ -233,7 +233,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/papers/distortion.png' alt="Distortion-CD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src="images/papers/distortion.png" alt="Distortion-CD" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Toward Distortion-Aware Change Detection in Realistic Scenarios</div>
 <div class="paper-authors">Yitao Zhao, Heng-Chao Li, <b>Nanqing Liu</b>, Rui Wang</div>
@@ -242,7 +242,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/papers/tinet.png' alt="TINet" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src="images/papers/tinet.png" alt="TINet" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Xun Xu, Turgay Celik, Zhi Gan, Heng-Chao Li</div>
@@ -251,7 +251,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/papers/msopnet.png' alt="Masked-Second-Order" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src="images/papers/msopnet.png" alt="Masked-Second-Order" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification</div>
 <div class="paper-authors">Jiahao Deng, Qiong Wang, <b>Nanqing Liu*</b></div>
@@ -260,7 +260,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/papers/break.png' alt="Border-Restriction" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src="images/papers/break.png" alt="Border-Restriction" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Break Through the Border Restriction of Horizontal Bounding Box for Arbitrary-Oriented Ship Detection in SAR Images</div>
 <div class="paper-authors">Pengfei Guo, Turgay Celik, <b>Nanqing Liu</b>, Heng-Chao Li</div>
@@ -269,7 +269,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/papers/image2image.png' alt="GAN-SAR-Optical" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src="images/papers/image2image.png" alt="GAN-SAR-Optical" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">A Comparative Analysis of GAN-Based Methods for SAR-to-Optical Image Translation</div>
 <div class="paper-authors">Yitao Zhao, Turgay Celik, <b>Nanqing Liu</b>, Heng-Chao Li</div>
@@ -278,7 +278,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/papers/vgl.png' alt="Arbitrary-Oriented" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src="images/papers/vgl.png" alt="Arbitrary-Oriented" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images</div>
 <div class="paper-authors">Tao Zhao, <b>Nanqing Liu*</b>, Turgay Celik, Heng-Chao Li</div>
@@ -287,7 +287,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src='images/papers/afdet.png' alt="AFDet" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src="images/papers/afdet.png" alt="AFDet" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">AFDet: Toward More Accurate and Faster Object Detection in Remote Sensing Images</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Tao Zhao, Chen Zhang, Heng-Chao Li</div>
@@ -296,7 +296,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2020</div><img src='images/papers/msnet.png' alt="MSNet" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2020</div><img src="images/papers/msnet.png" alt="MSNet" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Heng-Chao Li</div>
