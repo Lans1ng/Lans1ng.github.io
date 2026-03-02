@@ -14,10 +14,10 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <h1 id="news" style="margin-bottom: 10px;"><a href="#news" style="text-decoration: none; color: inherit;">🔔 News</a></h1>
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
+<li><strong>2026.02</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
 <li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
 <li><strong>2026.01</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
-<li><strong>2026.01</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2025.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2025.06</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong>.</li>
 <li><strong>2025.03</strong>: Two papers accepted by <strong>IGARSS 2025</strong>.</li>
@@ -120,7 +120,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/papers/ra-sam.png' alt="RA-SAM" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Reference and Attention Guided Few-Shot Adaptation of Segment Anything Model for Remote Sensing Images</div>
-<div class="paper-authors">Xin Wei, <b>Nanqing Liu</b>, Sen Lei, Heng-Chao Li</div>
+<div class="paper-authors">Xingji Wei, <b>Nanqing Liu</b>, Sen Lei, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2026</div>
 <div><a href="https://doi.org/10.1109/TGRS.2026.3664922" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/rasam2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
