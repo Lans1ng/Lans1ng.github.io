@@ -17,6 +17,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
 <li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
 <li><strong>2026.01</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
+<li><strong>2026.01</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2025.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2025.06</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong>.</li>
 <li><strong>2025.03</strong>: Two papers accepted by <strong>IGARSS 2025</strong>.</li>
@@ -113,6 +114,15 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-authors">Rui Chen, <b>Nanqing Liu</b>, Yun-Cheng Li, Sen Lei, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2026</div>
 <div><a href="https://ieeexplore.ieee.org/document/11278017" class="btn-link btn-paper">Paper</a> <a href="https://github.com/crcherry/BLNet" class="btn-link btn-code">Code</a> <a href="files/bibtex/blnet2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/papers/ra-sam.png' alt="RA-SAM" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">Reference and Attention Guided Few-Shot Adaptation of Segment Anything Model for Remote Sensing Images</div>
+<div class="paper-authors">Xin Wei, <b>Nanqing Liu</b>, Sen Lei, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2026</div>
+<div><a href="https://doi.org/10.1109/TGRS.2026.3664922" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/rasam2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
