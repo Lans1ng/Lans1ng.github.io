@@ -14,6 +14,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <h1 id="news" style="margin-bottom: 10px;"><a href="#news" style="text-decoration: none; color: inherit;">🔔 News</a></h1>
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
+<li><strong>2026.03</strong>: Serving as Guest Editor for the <strong>Future Internet</strong> Special Issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/05WG908EKC"><em>Advances in Vision Algorithms for Future Intelligent Systems</em></a>.</li>
 <li><strong>2026.02</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
 <li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
@@ -264,7 +265,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src="images/papers/msopnet.png" alt="Masked-Second-Order" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification</div>
-<div class="paper-authors">Jiahao Deng, Qiong Wang, <b>Nanqing Liu*</b></div>
+<div class="paper-authors">Jiahao Deng, Qianli Wang, <b>Nanqing Liu*</b></div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2023</div>
 <div><a href="https://ieeexplore.ieee.org/document/10138050" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/masked2023.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
