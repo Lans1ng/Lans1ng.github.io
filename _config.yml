@@ -192,6 +192,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - acad-homepage.github.io
 keep_files:
   - .git
   - .svn
