@@ -14,6 +14,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <h1 id="news" style="margin-bottom: 10px;"><a href="#news" style="text-decoration: none; color: inherit;">🔔 News</a></h1>
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
+<li><strong>2026.04</strong>: One paper accepted by <strong>ESWA</strong>.</li>
 <li><strong>2026.04</strong>: One paper accepted by <strong>ICME 2026</strong>.</li>
 <li><strong>2026.03</strong>: Serving as Guest Editor for the <strong>Future Internet</strong> Special Issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/05WG908EKC"><em>Advances in Vision Algorithms for Future Intelligent Systems</em></a>.</li>
 <li><strong>2026.02</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
