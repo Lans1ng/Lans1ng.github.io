@@ -98,7 +98,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">SAM-Guided Multi-view Fusion for Weakly Supervised 3D Point Cloud Segmentation</div>
 <div class="paper-authors">Yuena Qiao, <b>Nanqing Liu*</b>, Yongyi Su, Shijie Li, Xulei Yang, Bihan Wen, Nancy F. Chen, Tianrui Li, Xun Xu</div>
 <div class="paper-venue">IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2026</div>
-<div><a href="files/bibtex/sampc2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462621" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/sampc2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
