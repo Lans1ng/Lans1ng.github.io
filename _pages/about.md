@@ -75,6 +75,15 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <h1 id="recent-publications" style="margin-bottom: 0;"><a href="#recent-publications" style="text-decoration: none; color: inherit;">🔬 Recent Publications</a></h1>
 <p style="font-size: 0.85em; color: #888; margin-top: 0; margin-bottom: 0px;">* denotes corresponding author</p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2026</div><img src='images/papers/stfar.png' alt="STFAR" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">STFAR: Test-Time Adaptive Object Detection through Self-Training and Feature Alignment Regularization</div>
+<div class="paper-authors"><b>Nanqing Liu</b>, Yijin Chen, Yongyi Su, Haojie Zhang, Lile Cai, Heng-Chao Li, Kui Jia, Tianrui Li, Xun Xu, Chuan-Sheng Foo</div>
+<div class="paper-venue">Expert Systems with Applications (<b>ESWA</b>), 2026</div>
+<div><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417426015071" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/stfar2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/padt.png' alt="PaDT" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs</div>
