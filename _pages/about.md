@@ -80,7 +80,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">STFAR: Test-Time Adaptive Object Detection through Self-Training and Feature Alignment Regularization</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Yijin Chen, Yongyi Su, Haojie Zhang, Lile Cai, Heng-Chao Li, Kui Jia, Tianrui Li, Xun Xu, Chuan-Sheng Foo</div>
 <div class="paper-venue">Expert Systems with Applications (<b>ESWA</b>), 2026</div>
-<div><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417426015071" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/stfar2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417426015071" class="btn-link btn-paper">Paper</a> <a href="https://github.com/Lans1ng/STFAR" class="btn-link btn-code">Code</a> <a href="files/bibtex/stfar2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
