@@ -76,6 +76,15 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <h1 id="recent-publications" style="margin-bottom: 0;"><a href="#recent-publications" style="text-decoration: none; color: inherit;">🔬 Recent Publications</a></h1>
 <p style="font-size: 0.85em; color: #888; margin-top: 0; margin-bottom: 0px;">* denotes corresponding author</p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/papers/cttaod-rs.png' alt="CTTAOD-RS" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">Continual Test-Time Adaptive Object Detection in Remote Sensing Images via Spectral Routing and Historical Reconstruction</div>
+<div class="paper-authors">Mingjing Yong, <b>Nanqing Liu</b>, Sen Lei, Jie Pan, Xue Yang, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>), 2026</div>
+<div><a href="https://ieeexplore.ieee.org/document/11503284" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/cttaodrs2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2026</div><img src='images/papers/stfar.png' alt="STFAR" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">STFAR: Test-Time Adaptive Object Detection through Self-Training and Feature Alignment Regularization</div>
