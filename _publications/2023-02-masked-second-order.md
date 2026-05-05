@@ -3,7 +3,8 @@ title: "Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classifica
 collection: publications
 category: manuscripts
 permalink: /publication/2023-masked-second-order
-date: 2023-06-01
+date: 2023-08-01
 venue: 'IEEE Geoscience and Remote Sensing Letters (GRSL)'
 authors: 'J. Deng, Q. Wang, <b>N. Liu*</b>'
+paperurl: 'https://ieeexplore.ieee.org/document/10138050'
 ---

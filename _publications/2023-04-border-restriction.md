@@ -3,7 +3,8 @@ title: "Break Through the Border Restriction of Horizontal Bounding Box for Arbi
 collection: publications
 category: manuscripts
 permalink: /publication/2023-border-restriction
-date: 2023-09-01
+date: 2023-07-01
 venue: 'IEEE Geoscience and Remote Sensing Letters (GRSL)'
 authors: 'P. Guo, T. Celik, <b>N. Liu</b>, H.-C. Li'
+paperurl: 'https://ieeexplore.ieee.org/document/10138431'
 ---
