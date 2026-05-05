@@ -81,7 +81,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Continual Test-Time Adaptive Object Detection in Remote Sensing Images via Spectral Routing and Historical Reconstruction</div>
 <div class="paper-authors">Mingjing Yong, <b>Nanqing Liu*</b>, Sen Lei, Jie Pan, Xue Yang, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>), 2026</div>
-<div><a href="https://ieeexplore.ieee.org/document/11503284" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/cttaodrs2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/11503284" class="btn-link btn-paper">Paper</a> <a href="https://github.com/rosou1/CTAOD-RS" class="btn-link btn-code">Code</a> <a href="files/bibtex/cttaodrs2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -243,7 +243,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">COUD: Continual Urbanization Detector for Time Series Building Change Detection</div>
 <div class="paper-authors">Yitao Zhao, Heng-Chao Li, Sen Lei, <b>Nanqing Liu</b>, Jie Pan, Turgay Celik</div>
 <div class="paper-venue">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>), 2024</div>
-<div><a href="https://ieeexplore.ieee.org/document/10720916" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/coud2024.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/document/10720916" class="btn-link btn-paper">Paper</a> <a href="https://github.com/MarsZhaoYT/TSCD-Dataset" class="btn-link btn-code">Code</a> <a href="files/bibtex/coud2024.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
