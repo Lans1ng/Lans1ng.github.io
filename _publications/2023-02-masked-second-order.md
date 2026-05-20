@@ -6,5 +6,5 @@ permalink: /publication/2023-masked-second-order
 date: 2023-08-01
 venue: 'IEEE Geoscience and Remote Sensing Letters (GRSL)'
 authors: 'J. Deng, Q. Wang, <b>N. Liu*</b>'
-paperurl: 'https://ieeexplore.ieee.org/document/10138050'
+paperurl: 'https://doi.org/10.1109/LGRS.2023.3344840'
 ---

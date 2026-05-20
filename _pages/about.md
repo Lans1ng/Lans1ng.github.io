@@ -286,9 +286,9 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src="images/papers/msopnet.png" alt="Masked-Second-Order" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification</div>
-<div class="paper-authors">Jiahao Deng, Qianli Wang, <b>Nanqing Liu*</b></div>
+<div class="paper-authors">Jianan Deng, Qianli Wang, <b>Nanqing Liu*</b></div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2023</div>
-<div><a href="https://ieeexplore.ieee.org/document/10138050" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/masked2023.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://doi.org/10.1109/LGRS.2023.3344840" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/masked2023.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
