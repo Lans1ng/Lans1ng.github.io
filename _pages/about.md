@@ -108,7 +108,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement</div>
 <div class="paper-authors">Tiankai Chen, <b>Nanqing Liu</b>, Li Yang, Xulei Yang, Tianrui Li, Xun Xu</div>
 <div class="paper-venue">International Conference on Learning Representations (<b>ICLR</b>), 2026</div>
-<div><a href="files/bibtex/pgllm2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://openreview.net/forum?id=qsra0EsUpe" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/pgllm2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -252,7 +252,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Semi-supervised object detection with uncurated unlabeled data for remote sensing images</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Xun Xu, Yingjie Gao, Yitao Zhao, Heng-Chao Li</div>
 <div class="paper-venue">International Journal of Applied Earth Observation and Geoinformation (<b>JAG</b>), 2024</div>
-<div><a href="https://www.sciencedirect.com/science/article/pii/S1569843224000864" class="btn-link btn-paper">Paper</a> <a href="https://github.com/Lans1ng/OSSOD" class="btn-link btn-code">Code</a> <a href="files/bibtex/ossod2024.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://www.sciencedirect.com/science/article/pii/S1569843224001687" class="btn-link btn-paper">Paper</a> <a href="https://github.com/Lans1ng/OSSOD" class="btn-link btn-code">Code</a> <a href="files/bibtex/ossod2024.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -310,30 +310,30 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src="images/papers/vgl.png" alt="Arbitrary-Oriented" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src="images/papers/vgl.png" alt="Arbitrary-Oriented" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">An Arbitrary-Oriented Object Detector Based on Variant Gaussian Label in Remote Sensing Images</div>
-<div class="paper-authors">Tao Zhao, <b>Nanqing Liu*</b>, Turgay Celik, Heng-Chao Li</div>
-<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2021</div>
-<div><a href="https://ieeexplore.ieee.org/document/9466238" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/arbitrary2021.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div class="paper-authors">Tingyu Zhao, <b>Nanqing Liu*</b>, Turgay Celik, Heng-Chao Li</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2022</div>
+<div><a href="https://doi.org/10.1109/LGRS.2021.3087492" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/arbitrary2021.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src="images/papers/afdet.png" alt="AFDet" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">AFDet: Toward More Accurate and Faster Object Detection in Remote Sensing Images</div>
-<div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Tao Zhao, Chen Zhang, Heng-Chao Li</div>
+<div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Tingyu Zhao, Chao Zhang, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>), 2021</div>
-<div><a href="https://ieeexplore.ieee.org/document/9616403" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/afdet2021.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://doi.org/10.1109/JSTARS.2021.3128566" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/afdet2021.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2020</div><img src="images/papers/msnet.png" alt="MSNet" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src="images/papers/msnet.png" alt="MSNet" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification</div>
 <div class="paper-authors"><b>Nanqing Liu</b>, Turgay Celik, Heng-Chao Li</div>
-<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2020</div>
-<div><a href="https://ieeexplore.ieee.org/document/9302612" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/msnet2020.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2022</div>
+<div><a href="https://doi.org/10.1109/LGRS.2020.3043020" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/msnet2020.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
