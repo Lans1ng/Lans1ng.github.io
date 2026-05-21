@@ -124,7 +124,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/point2rbox4sar.png' alt="Point2RBox4SAR" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Point-Supervised Oriented Ship Detection via Segment Anything Model for SAR Images</div>
-<div class="paper-authors">Qiwei Lin, <b>Nanqing Liu*</b>, Zhiyuan Tan, Yang Liu, Qinghua Long</div>
+<div class="paper-authors">Qiwei Lin, <b>Nanqing Liu*</b>, Zhiyuan Tan, Yang Liu, Qinghua Long*</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2026</div>
 <div><a href="https://ieeexplore.ieee.org/document/11230842" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/point2rbox4sar2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
@@ -178,7 +178,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src="images/papers/oag-fsod.png" alt="OAG-FSOD" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Few-Shot Object Detection With Contrastive Enhancement Loss Guided by Object Association Graph in Remote Sensing Images</div>
-<div class="paper-authors">Jin Wang, Zongfang Ma, Chen Wang, <b>Nanqing Liu*</b></div>
+<div class="paper-authors">Jin Wang, Zongfang Ma*, Chen Wang, <b>Nanqing Liu*</b></div>
 <div class="paper-venue">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>), 2025</div>
 <div><a href="https://ieeexplore.ieee.org/document/11152320" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/oagfsod2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
@@ -286,7 +286,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src="images/papers/msopnet.png" alt="Masked-Second-Order" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Masked Second-Order Pooling for Few-Shot Remote-Sensing Scene Classification</div>
-<div class="paper-authors">Jianan Deng, Qianli Wang, <b>Nanqing Liu*</b></div>
+<div class="paper-authors">Jianan Deng, Qianli Wang*, <b>Nanqing Liu*</b></div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2023</div>
 <div><a href="https://doi.org/10.1109/LGRS.2023.3344840" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/masked2023.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>

@@ -5,6 +5,6 @@ category: manuscripts
 permalink: /publication/2025-few-shot-contrastive
 date: 2025-05-01
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)'
-authors: 'J. Wang, Z. Ma, C. Wang, <b>N. Liu*</b>'
+authors: 'J. Wang, Z. Ma*, C. Wang, <b>N. Liu*</b>'
 paperurl: 'https://ieeexplore.ieee.org/document/11152320'
 ---
