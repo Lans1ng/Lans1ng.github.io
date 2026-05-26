@@ -144,7 +144,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Reference and Attention Guided Few-Shot Adaptation of Segment Anything Model for Remote Sensing Images</div>
 <div class="paper-authors">Xingji Wei, <b>Nanqing Liu</b>, Sen Lei, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>), 2026</div>
-<div><a href="https://doi.org/10.1109/TGRS.2026.3664922" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/rasam2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://doi.org/10.1109/TGRS.2026.3664922" class="btn-link btn-paper">Paper</a> <a href="https://github.com/WILSON10111/RefAtt-SAM" class="btn-link btn-code">Code</a> <a href="files/bibtex/rasam2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 

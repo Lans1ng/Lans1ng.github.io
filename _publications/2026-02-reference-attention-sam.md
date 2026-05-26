@@ -7,5 +7,6 @@ date: 2026-02-01
 venue: 'IEEE Transactions on Geoscience and Remote Sensing (TGRS)'
 authors: 'X. Wei, <b>N. Liu</b>, S. Lei, H.-C. Li'
 paperurl: 'https://doi.org/10.1109/TGRS.2026.3664922'
+codeurl: 'https://github.com/WILSON10111/RefAtt-SAM'
 ---
 
