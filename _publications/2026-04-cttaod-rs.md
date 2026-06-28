@@ -7,4 +7,5 @@ date: 2026-04-03
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)'
 authors: 'M. Yong, <b>N. Liu*</b>, S. Lei, J. Pan, X. Yang, H.-C. Li'
 paperurl: 'https://ieeexplore.ieee.org/document/11503284'
+codeurl: 'https://github.com/rosou1/CTAOD-RS'
 ---

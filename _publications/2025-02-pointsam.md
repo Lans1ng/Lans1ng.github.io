@@ -7,4 +7,5 @@ date: 2025-07-01
 venue: 'IEEE Transactions on Geoscience and Remote Sensing (TGRS)'
 authors: '<b>N. Liu</b>, X. Xu, Y. Su, H. Zhang, H.-C. Li'
 paperurl: 'https://ieeexplore.ieee.org/document/10839471'
+codeurl: 'https://github.com/Lans1ng/PointSAM'
 ---

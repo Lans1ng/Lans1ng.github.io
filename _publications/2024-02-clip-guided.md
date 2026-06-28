@@ -8,4 +8,5 @@ venue: 'IEEE International Geoscience and Remote Sensing Symposium (IGARSS)'
 authors: '<b>N. Liu</b>, X. Xu, Y. Su, C. Liu, P. Gong, H.-C. Li'
 note: 'Oral'
 paperurl: 'https://ieeexplore.ieee.org/document/10640553'
+codeurl: 'https://github.com/Lans1ng/SFOD-RS'
 ---
