@@ -108,7 +108,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">Test-Time Optimization of 3D Point Cloud LLM via Manifold-Aware In-Context Guidance and Refinement</div>
 <div class="paper-authors">Tiankai Chen, <b>Nanqing Liu</b>, Li Yang, Xulei Yang, Tianrui Li, Xun Xu</div>
 <div class="paper-venue">International Conference on Learning Representations (<b>ICLR</b>), 2026</div>
-<div><a href="https://openreview.net/forum?id=qsra0EsUpe" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/pgllm2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://openreview.net/forum?id=qsra0EsUpe" class="btn-link btn-paper">Paper</a> <a href="https://github.com/handsome999KK/PGLLM" class="btn-link btn-code">Code</a> <a href="files/bibtex/pgllm2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -117,7 +117,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">SAM-Guided Multi-view Fusion for Weakly Supervised 3D Point Cloud Segmentation</div>
 <div class="paper-authors">Yuena Qiao, <b>Nanqing Liu*</b>, Yongyi Su, Shijie Li, Xulei Yang, Bihan Wen, Nancy F. Chen, Tianrui Li, Xun Xu</div>
 <div class="paper-venue">IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2026</div>
-<div><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462621" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/sampc2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462621" class="btn-link btn-paper">Paper</a> <a href="https://github.com/YuenaQiao/SAM-Guided-Multi-View-Fusion-for-Weakly-Supervised-3D-Point-Cloud-Segmentation" class="btn-link btn-code">Code</a> <a href="files/bibtex/sampc2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -127,15 +127,6 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-authors">Qiwei Lin, <b>Nanqing Liu*</b>, Zhiyuan Tan, Yang Liu, Qinghua Long*</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2026</div>
 <div><a href="https://ieeexplore.ieee.org/document/11230842" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/point2rbox4sar2026.bib" class="btn-link btn-bib">Bibtex</a></div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/blnet.png' alt="BLNet" width="100%" loading="lazy"></div></div>
-<div class='paper-box-text'>
-<div class="paper-title">Blueprint Multiscale Aware and Linearized Feature Enhancement Network for Efficient Remote Sensing Image Super-Resolution</div>
-<div class="paper-authors">Rui Chen, <b>Nanqing Liu</b>, Yun-Cheng Li, Sen Lei, Heng-Chao Li</div>
-<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2026</div>
-<div><a href="https://ieeexplore.ieee.org/document/11278017" class="btn-link btn-paper">Paper</a> <a href="https://github.com/crcherry/BLNet" class="btn-link btn-code">Code</a> <a href="files/bibtex/blnet2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
@@ -199,24 +190,6 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-authors">Yanqiong Liu, Sen Lei, <b>Nanqing Liu</b>, Jie Pan, Heng-Chao Li</div>
 <div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2025</div>
 <div><a href="https://ieeexplore.ieee.org/document/10777476" class="btn-link btn-paper">Paper</a> <a href="https://github.com/joan2joan/MAD-Net" class="btn-link btn-code">Code</a> <a href="files/bibtex/madnet2025.bib" class="btn-link btn-bib">Bibtex</a></div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src="images/papers/ps-tod.png" alt="PS-TOD" width="100%" loading="lazy"></div></div>
-<div class='paper-box-text'>
-<div class="paper-title">PS-TOD: Point-Supervised Tiny Object Detection via Two-Stage Calibration</div>
-<div class="paper-authors">Zihui Wang, Sen Lei, <b>Nanqing Liu</b>, Pengfei Guo, Heng-Chao Li</div>
-<div class="paper-venue">IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS</b>), 2025</div>
-<div><a href="https://ieeexplore.ieee.org/document/11243559" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/pstod2025.bib" class="btn-link btn-bib">Bibtex</a></div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src="images/papers/rosd-sar.png" alt="RoSD-SAR" width="100%" loading="lazy"></div></div>
-<div class='paper-box-text'>
-<div class="paper-title">RoSD-SAR: Robust Ship Detection in SAR Images with Noisy Box</div>
-<div class="paper-authors">Pengfei Guo, Sen Lei, Chengxin Liu, <b>Nanqing Liu</b>, Heng-Chao Li</div>
-<div class="paper-venue">IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS</b>), 2025</div>
-<div><a href="https://ieeexplore.ieee.org/document/11243777" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/rosdsar2025.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
