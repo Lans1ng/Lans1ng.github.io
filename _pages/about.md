@@ -87,7 +87,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/proc-sam3.png' alt="ProC-SAM3" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/proc-sam3-method.png' alt="ProC-SAM3" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
 <div class="paper-title">Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation</div>
 <div class="paper-authors">Yanghui Song, <b>Nanqing Liu</b>, Haonan Yin, Yingjie Gao, Chengfu Yang, Qi Ming</div>
