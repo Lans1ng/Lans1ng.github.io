@@ -12,31 +12,33 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </p>
 
 <h1 id="news" style="margin-bottom: 10px;"><a href="#news" style="text-decoration: none; color: inherit;">🔔 News</a></h1>
-<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
+<div style="height: 280px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
-<li><strong>2026.04</strong>: One paper accepted by <strong>IEEE TCSVT</strong>.</li>
-<li><strong>2026.04</strong>: One paper accepted by <strong>ESWA</strong>.</li>
-<li><strong>2026.04</strong>: One paper accepted by <strong>ICME 2026</strong>.</li>
+<li><strong>2026.07</strong>: One paper was accepted by <strong>ACM MM 2026</strong>. Congratulations to Haojie Zhang!</li>
+<li><strong>2026.07</strong>: One paper was accepted by <strong>IEEE GRSL</strong>. Congratulations to Yanghui Song!</li>
+<li><strong>2026.04</strong>: One paper was accepted by <strong>IEEE TCSVT</strong>. Congratulations to Mingjing Yong!</li>
+<li><strong>2026.04</strong>: One paper was accepted by <strong>ESWA</strong>. Congratulations!</li>
+<li><strong>2026.04</strong>: One paper was accepted by <strong>ICME 2026</strong>. Congratulations to Bocheng Guo!</li>
 <li><strong>2026.03</strong>: Serving as Guest Editor for the <strong>Future Internet</strong> Special Issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/05WG908EKC"><em>Advances in Vision Algorithms for Future Intelligent Systems</em></a>.</li>
-<li><strong>2026.02</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
-<li><strong>2026.01</strong>: Two papers accepted by <strong>ICLR 2026</strong>.</li>
-<li><strong>2026.01</strong>: One paper accepted by <strong>ICASSP 2026</strong>.</li>
-<li><strong>2026.01</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
-<li><strong>2025.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
-<li><strong>2025.06</strong>: One paper accepted by <strong>IEEE Sensors Journal</strong>.</li>
-<li><strong>2025.03</strong>: Two papers accepted by <strong>IGARSS 2025</strong>.</li>
-<li><strong>2025.03</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
-<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
-<li><strong>2025.01</strong>: One paper accepted by <strong>IEEE GRSL</strong>.</li>
-<li><strong>2025.01</strong>: One paper accepted by <strong>ICLR 2025</strong>.</li>
-<li><strong>2024.10</strong>: One paper accepted by <strong>ACM MM 2024</strong>.</li>
+<li><strong>2026.02</strong>: One paper was accepted by <strong>IEEE TGRS</strong>. Congratulations to Xingji Wei!</li>
+<li><strong>2026.01</strong>: Two papers were accepted by <strong>ICLR 2026</strong>. Congratulations to Yongyi Su and Tiankai Chen!</li>
+<li><strong>2026.01</strong>: One paper was accepted by <strong>ICASSP 2026</strong>. Congratulations to Yuena Qiao!</li>
+<li><strong>2026.01</strong>: Two papers were accepted by <strong>IEEE GRSL</strong>. Congratulations to Qiwei Lin and Rui Chen!</li>
+<li><strong>2025.10</strong>: One paper was accepted by <strong>IEEE TGRS</strong>. Congratulations to Yitao Zhao!</li>
+<li><strong>2025.06</strong>: One paper was accepted by <strong>IEEE Sensors Journal</strong>. Congratulations to Pengfei Guo!</li>
+<li><strong>2025.03</strong>: Two papers were accepted by <strong>IGARSS 2025</strong>. Congratulations to Zhiyuan Wang and Pengfei Guo!</li>
+<li><strong>2025.03</strong>: One paper was accepted by <strong>IEEE JSTARS</strong>. Congratulations to Jin Wang!</li>
+<li><strong>2025.01</strong>: One paper was accepted by <strong>IEEE TGRS</strong>. Congratulations!</li>
+<li><strong>2025.01</strong>: One paper was accepted by <strong>IEEE GRSL</strong>. Congratulations to Yanqiong Liu!</li>
+<li><strong>2025.01</strong>: One paper was accepted by <strong>ICLR 2025</strong>. Congratulations to Yongyi Su and Yushu Li!</li>
+<li><strong>2024.10</strong>: One paper was accepted by <strong>ACM MM 2024</strong>. Congratulations to Yingjie Gao!</li>
 <li><strong>2024.07</strong>: Received <strong>IEEE GRSS Travel Grant</strong> for IGARSS 2024.</li>
-<li><strong>2024.06</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
-<li><strong>2024.05</strong>: One paper accepted by <strong>PAKDD 2024</strong> (Oral).</li>
-<li><strong>2024.05</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
-<li><strong>2024.03</strong>: Two papers accepted by <strong>IGARSS 2024</strong> (1 Oral).</li>
-<li><strong>2024.03</strong>: One paper accepted by <strong>JAG</strong>.</li>
-<li><strong>2024.02</strong>: One paper accepted by <strong>IEEE JSTARS</strong>.</li>
+<li><strong>2024.06</strong>: One paper was accepted by <strong>IEEE TGRS</strong>. Congratulations to Yitao Zhao!</li>
+<li><strong>2024.05</strong>: One paper was accepted by <strong>PAKDD 2024</strong> as an oral paper. Congratulations to Rong Pang!</li>
+<li><strong>2024.05</strong>: One paper was accepted by <strong>IEEE TGRS</strong>. Congratulations to Yuncheng Li!</li>
+<li><strong>2024.03</strong>: Two papers were accepted by <strong>IGARSS 2024</strong>, including one oral paper. Congratulations to Yitao Zhao!</li>
+<li><strong>2024.03</strong>: One paper was accepted by <strong>JAG</strong>. Congratulations!</li>
+<li><strong>2024.02</strong>: One paper was accepted by <strong>IEEE JSTARS</strong>. Congratulations to Yitao Zhao!</li>
 <li><strong>2023.10</strong>: One paper accepted by <strong>IEEE TGRS</strong>.</li>
 <li><strong>2023.06</strong>: Two papers accepted by <strong>IEEE GRSL</strong>.</li>
 <li><strong>2023.06</strong>: One paper accepted by <strong>ISPA 2023</strong> (Oral).</li>
@@ -75,6 +77,24 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 
 <h1 id="recent-publications" style="margin-bottom: 0;"><a href="#recent-publications" style="text-decoration: none; color: inherit;">🔬 Recent Publications</a></h1>
 <p style="font-size: 0.85em; color: #888; margin-top: 0; margin-bottom: 0px;">* denotes corresponding author</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/papers/muss.png' alt="MuSS" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation</div>
+<div class="paper-authors">Haojie Zhang, Di Wu, Bingyan Liu, Linjie Zhong, Yuancheng Wei, Xingsong Ye, <b>Nanqing Liu*</b>, Yaling Liang</div>
+<div class="paper-venue">ACM International Conference on Multimedia (<b>ACM MM</b>), 2026</div>
+<div><a href="https://arxiv.org/abs/2604.23789" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/muss2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2026</div><img src='images/papers/proc-sam3.png' alt="ProC-SAM3" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text'>
+<div class="paper-title">Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation</div>
+<div class="paper-authors">Yanghui Song, <b>Nanqing Liu</b>, Haonan Yin, Yingjie Gao, Chengfu Yang, Qi Ming</div>
+<div class="paper-venue">IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 2026</div>
+<div><a href="https://arxiv.org/abs/2606.21863" class="btn-link btn-paper">Paper</a> <a href="https://github.com/YanghuiSong/ProC-SAM3" class="btn-link btn-code">Code</a> <a href="files/bibtex/procsam32026.bib" class="btn-link btn-bib">Bibtex</a></div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/papers/cttaod-rs.png' alt="CTTAOD-RS" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text'>
