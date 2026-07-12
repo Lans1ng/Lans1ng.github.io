@@ -83,7 +83,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div class="paper-title">MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation</div>
 <div class="paper-authors">Haojie Zhang, Di Wu, Bingyan Liu, Linjie Zhong, Yuancheng Wei, Xingsong Ye, <b>Nanqing Liu*</b>, Yaling Liang</div>
 <div class="paper-venue">ACM International Conference on Multimedia (<b>ACM MM</b>), 2026</div>
-<div><a href="https://arxiv.org/abs/2604.23789" class="btn-link btn-paper">Paper</a> <a href="files/bibtex/muss2026.bib" class="btn-link btn-bib">Bibtex</a></div>
+<div><a href="https://arxiv.org/abs/2604.23789" class="btn-link btn-paper">Paper</a> <a href="https://github.com/zhang-haojie/MuSS" class="btn-link btn-code">Code</a> <a href="files/bibtex/muss2026.bib" class="btn-link btn-bib">Bibtex</a></div>
 </div>
 </div>
 
