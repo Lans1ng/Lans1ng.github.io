@@ -17,7 +17,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <li><strong>2026.08</strong>: Awarded a <strong>National Natural Science Foundation of China (NSFC) Youth Science Fund Project (Category C)</strong>.</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>ACM MM 2026</strong> as an oral paper. Congratulations to Haojie Zhang!</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>IEEE GRSL</strong>. Congratulations to Yanghui Song!</li>
-<li><strong>2026.06</strong>: Selected as one of the <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener"><strong>2025 IEEE Access Exceptional Reviewers</strong></a>.</li>
+<li><strong>2026.06</strong>: Recognized as a <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener"><strong>2025 IEEE Access Exceptional Reviewer</strong></a>.</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>IEEE TCSVT</strong>. Congratulations to Mingjing Yong!</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>ESWA</strong>. Congratulations!</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>ICME 2026</strong>. Congratulations to Bocheng Guo!</li>
@@ -75,6 +75,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 .btn-code:hover { background-color: #2C2C30; color: #fff; }
 .btn-bib { color: #6B8E23; border: 1px solid #6B8E23; }
 .btn-bib:hover { background-color: #6B8E23; color: #fff; }
+h1[id] { scroll-margin-top: 80px; }
 </style>
 
 <h1 id="recent-publications" style="margin-bottom: 0;"><a href="#recent-publications" style="text-decoration: none; color: inherit;">🔬 Recent Publications</a></h1>
@@ -338,7 +339,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 
 <h1 id="honors-funding" style="margin-bottom: 15px;"><a href="#honors-funding" style="text-decoration: none; color: inherit;">🏆 Honors &amp; Funding</a></h1>
 <ul style="font-size: 0.9em; line-height: 1.6;">
-<li><strong>Honor:</strong> Selected as one of the <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener">2025 IEEE Access Exceptional Reviewers</a></li>
+<li><strong>Honor:</strong> <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener">2025 IEEE Access Exceptional Reviewer</a></li>
 <li><strong>Research Grant:</strong> National Natural Science Foundation of China (NSFC) Youth Science Fund Project (Category C) — Principal Investigator</li>
 </ul>
 
