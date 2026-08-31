@@ -339,7 +339,7 @@ h1[id] { scroll-margin-top: 80px; }
 
 <h1 id="honors-funding" style="margin-bottom: 15px;"><a href="#honors-funding" style="text-decoration: none; color: inherit;">🏆 Honors &amp; Funding</a></h1>
 <ul style="font-size: 0.9em; line-height: 1.6;">
-<li><strong>Honor:</strong> <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener">2025 IEEE Access Exceptional Reviewer</a></li>
+<li><strong>Honor:</strong> 2025 IEEE Access Exceptional Reviewer (<a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener">Link</a>)</li>
 <li><strong>Research Grant:</strong> National Natural Science Foundation of China (NSFC) Youth Science Fund Project (Category C) — Principal Investigator</li>
 </ul>
 
