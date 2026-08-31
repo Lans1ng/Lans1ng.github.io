@@ -5,5 +5,8 @@ main:
   - title: "Publications"
     url: "/#selected-publications"
 
+  - title: "Honors & Funding"
+    url: "/#honors-funding"
+
   - title: "Academic Service"
     url: "/#academic-service"

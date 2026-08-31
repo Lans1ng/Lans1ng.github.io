@@ -17,7 +17,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <li><strong>2026.08</strong>: Awarded a <strong>National Natural Science Foundation of China (NSFC) Youth Science Fund Project (Category C)</strong>.</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>ACM MM 2026</strong> as an oral paper. Congratulations to Haojie Zhang!</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>IEEE GRSL</strong>. Congratulations to Yanghui Song!</li>
-<li><strong>2026.06</strong>: Named a <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/"><strong>2025 IEEE Access Exceptional Reviewer</strong></a>.</li>
+<li><strong>2026.06</strong>: Selected as one of the <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener"><strong>2025 IEEE Access Exceptional Reviewers</strong></a>.</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>IEEE TCSVT</strong>. Congratulations to Mingjing Yong!</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>ESWA</strong>. Congratulations!</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>ICME 2026</strong>. Congratulations to Bocheng Guo!</li>
@@ -333,6 +333,14 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 </div>
 
 <p><a href="/publications/">Full list →</a></p>
+
+<div style="margin-top: 3em;"></div>
+
+<h1 id="honors-funding" style="margin-bottom: 15px;"><a href="#honors-funding" style="text-decoration: none; color: inherit;">🏆 Honors &amp; Funding</a></h1>
+<ul style="font-size: 0.9em; line-height: 1.6;">
+<li><strong>Honor:</strong> Selected as one of the <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener">2025 IEEE Access Exceptional Reviewers</a></li>
+<li><strong>Research Grant:</strong> National Natural Science Foundation of China (NSFC) Youth Science Fund Project (Category C) — Principal Investigator</li>
+</ul>
 
 <div style="margin-top: 3em;"></div>
 
