@@ -8,14 +8,16 @@ redirect_from:
 ---
 
 <p style="font-size: 0.9em; line-height: 1.6; color: #333;">
-I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</a>. I obtained my Ph.D. degree in Information and Communication Engineering from <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a> in 2025, where I was supervised by Prof. <a href="https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN">Turgay Celik</a> and Prof. <a href="https://scholar.google.com/citations?user=sVVyQFYAAAAJ&hl=zh-CN">Heng-Chao Li</a>. From Feb 2023 to Dec 2024, I was a Visiting Student at <a href="https://www.a-star.edu.sg/">A*STAR</a> in Singapore, supervised by Dr. <a href="https://alex-xun-xu.github.io/">Xun Xu</a> and Dr. <a href="https://scholar.google.com/citations?user=AgbeqGkAAAAJ&hl=en">Chuan-Sheng Foo</a>. My research focuses on <strong>remote sensing image analysis</strong> and <strong>computer vision</strong>, with specific interests in few-shot/semi-supervised object detection, domain adaptation, and weakly-supervised segmentation.
+I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</a>. I obtained my Ph.D. degree in Information and Communication Engineering from <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a> in 2025, where I was supervised by Prof. <a href="https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=zh-CN">Turgay Celik</a> and Prof. <a href="https://scholar.google.com/citations?user=sVVyQFYAAAAJ&hl=zh-CN">Heng-Chao Li</a>. From Feb 2023 to Jan 2025, I was a Visiting Student at <a href="https://www.a-star.edu.sg/">A*STAR</a> in Singapore, supervised by Dr. <a href="https://alex-xun-xu.github.io/">Xun Xu</a> and Dr. <a href="https://scholar.google.com/citations?user=AgbeqGkAAAAJ&hl=en">Chuan-Sheng Foo</a>. My research focuses on <strong>remote sensing image analysis</strong> and <strong>computer vision</strong>, with specific interests in few-shot/semi-supervised object detection, domain adaptation, and weakly-supervised segmentation.
 </p>
 
 <h1 id="news" style="margin-bottom: 10px;"><a href="#news" style="text-decoration: none; color: inherit;">🔔 News</a></h1>
 <div style="height: 280px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
+<li><strong>2026.08</strong>: Awarded a <strong>National Natural Science Foundation of China (NSFC) Youth Science Fund Project (Category C)</strong>.</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>ACM MM 2026</strong> as an oral paper. Congratulations to Haojie Zhang!</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>IEEE GRSL</strong>. Congratulations to Yanghui Song!</li>
+<li><strong>2026.06</strong>: Named a <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/"><strong>2025 IEEE Access Exceptional Reviewer</strong></a>.</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>IEEE TCSVT</strong>. Congratulations to Mingjing Yong!</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>ESWA</strong>. Congratulations!</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>ICME 2026</strong>. Congratulations to Bocheng Guo!</li>
@@ -337,7 +339,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <h1 id="academic-service" style="margin-bottom: 15px;"><a href="#academic-service" style="text-decoration: none; color: inherit;">💼 Academic Service</a></h1>
 <ul style="font-size: 0.9em; line-height: 1.6;">
 <li><strong>Guest Editor:</strong> Future Internet</li>
-<li><strong>Journal Reviewer:</strong> TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL</li>
+<li><strong>Journal Reviewer:</strong> RSE, TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL</li>
 <li><strong>Conference Reviewer:</strong> NeurIPS 2026, ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025/2026, ICONIP 2023</li>
 <li><strong>Membership:</strong> IEEE Member</li>
 </ul>
