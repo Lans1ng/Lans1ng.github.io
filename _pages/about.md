@@ -14,7 +14,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <h1 id="news" style="margin-bottom: 10px;"><a href="#news" style="text-decoration: none; color: inherit;">🔔 News</a></h1>
 <div style="height: 380px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
-<li><strong>2026.08</strong>: Awarded a <strong>National Natural Science Foundation of China (NSFC) Youth Science Fund Project (Category C)</strong>.</li>
+<li><strong>2026.08</strong>: Awarded a <strong>Youth Science Fund (Category C) grant</strong> from the National Natural Science Foundation of China (NSFC).</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>ACM MM 2026</strong> as an oral paper. Congratulations to Haojie Zhang!</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>IEEE GRSL</strong>. Congratulations to Yanghui Song!</li>
 <li><strong>2026.06</strong>: Recognized as a <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener"><strong>2025 IEEE Access Exceptional Reviewer</strong></a>.</li>
@@ -340,7 +340,7 @@ h1[id] { scroll-margin-top: 80px; }
 <h1 id="honors-funding" style="margin-bottom: 15px;"><a href="#honors-funding" style="text-decoration: none; color: inherit;">🏆 Honors &amp; Funding</a></h1>
 <ul style="font-size: 0.9em; line-height: 1.6;">
 <li><strong>Honor:</strong> 2025 IEEE Access Exceptional Reviewer (<a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener">Link</a>)</li>
-<li><strong>Funding:</strong> National Natural Science Foundation of China (NSFC) Youth Science Fund Project (Category C) — Principal Investigator</li>
+<li><strong>Funding:</strong> NSFC Youth Science Fund (Category C) grant — Principal Investigator</li>
 </ul>
 
 <div style="margin-top: 3em;"></div>
