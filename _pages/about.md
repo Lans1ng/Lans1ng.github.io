@@ -15,6 +15,7 @@ I am a Lecturer at <a href="https://www.ynnu.edu.cn/">Yunnan Normal University</
 <div style="height: 380px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px; font-size: 0.8em;">
 <ul style="list-style: none; padding-left: 0; margin: 0;">
 <li><strong>2026.08</strong>: Received an <strong>NSFC Young Scientists Fund (C) grant</strong>.</li>
+<li><strong>2026.07</strong>: One paper was accepted by <strong>ACM MM 2026</strong>. Congratulations to Haojie Zhang!</li>
 <li><strong>2026.07</strong>: One paper was accepted by <strong>IEEE GRSL</strong>. Congratulations to Yanghui Song!</li>
 <li><strong>2026.06</strong>: Recognized as a <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener"><strong>2025 IEEE Access Exceptional Reviewer</strong></a>.</li>
 <li><strong>2026.04</strong>: One paper was accepted by <strong>IEEE TCSVT</strong>. Congratulations to Mingjing Yong!</li>
