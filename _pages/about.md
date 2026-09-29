@@ -349,6 +349,6 @@ h1[id] { scroll-margin-top: 80px; }
 <ul style="font-size: 0.9em; line-height: 1.6;">
 <li><strong>Guest Editor:</strong> Future Internet</li>
 <li><strong>Journal Reviewer:</strong> RSE, TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL</li>
-<li><strong>Conference Reviewer:</strong> NeurIPS 2026, ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025/2026, ICONIP 2023</li>
+<li><strong>Conference Reviewer:</strong> WACV 2027, NeurIPS 2026, ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025/2026, ICONIP 2023</li>
 <li><strong>Membership:</strong> IEEE Member</li>
 </ul>
