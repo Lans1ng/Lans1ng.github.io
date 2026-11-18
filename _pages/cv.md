@@ -48,7 +48,7 @@ Honors & Awards
 Academic Service
 ======
 * **Guest Editor**: Future Internet
-* **Journal Reviewer**: TIP, TCSVT, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL
+* **Journal Reviewer**: TIP, TCSVT, TMM, TII, GRSM, TGRS, ISPRS, TIM, JSTARS, GRSL
 * **Conference Reviewer**: WACV 2027, NeurIPS 2026, ECCV 2026, CVPR 2026, IGARSS 2025/2026, ACM MM 2024/2025/2026, ICONIP 2023
 * **Membership**: IEEE Member
 
